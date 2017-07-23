@@ -1,0 +1,4702 @@
+[
+  {
+    "misc_code": "01111",
+    "description": "Growing of maize"
+  },
+  {
+    "misc_code": "01112",
+    "description": "Growing of leguminous crops"
+  },
+  {
+    "misc_code": "01113",
+    "description": "Growing of oil seeds"
+  },
+  {
+    "misc_code": "01119",
+    "description": "Growing of other cereals n.e.c."
+  },
+  {
+    "misc_code": "01120",
+    "description": "Growing of paddy"
+  },
+  {
+    "misc_code": "01131",
+    "description": "Growing of leafy or stem vegetables"
+  },
+  {
+    "misc_code": "01132",
+    "description": "Growing of fruits bearing vegetables"
+  },
+  {
+    "misc_code": "01133",
+    "description": "Growing of melons"
+  },
+  {
+    "misc_code": "01134",
+    "description": "Growing of mushrooms and truffles"
+  },
+  {
+    "misc_code": "01135",
+    "description": "Growing of vegetables seeds, except beet seeds"
+  },
+  {
+    "misc_code": "01136",
+    "description": "Growing of other vegetables"
+  },
+  {
+    "misc_code": "01137",
+    "description": "Growing of sugar beet"
+  },
+  {
+    "misc_code": "01138",
+    "description": "Growing of roots, tubers, bulb or tuberous vegetables"
+  },
+  {
+    "misc_code": "01140",
+    "description": "Growing of sugar cane"
+  },
+  {
+    "misc_code": "01150",
+    "description": "Growing of tobacco"
+  },
+  {
+    "misc_code": "01160",
+    "description": "Growing of fibre crops"
+  },
+  {
+    "misc_code": "01191",
+    "description": "Growing of flowers"
+  },
+  {
+    "misc_code": "01192",
+    "description": "Growing of flower seeds"
+  },
+  {
+    "misc_code": "01193",
+    "description": "Growing of sago (rumbia)"
+  },
+  {
+    "misc_code": "01199",
+    "description": "Growing of other non-perennial crops n.e.c."
+  },
+  {
+    "misc_code": "01210",
+    "description": "Growing of grapes"
+  },
+  {
+    "misc_code": "01221",
+    "description": "Growing of banana"
+  },
+  {
+    "misc_code": "01222",
+    "description": "Growing of mango"
+  },
+  {
+    "misc_code": "01223",
+    "description": "Growing of durian"
+  },
+  {
+    "misc_code": "01224",
+    "description": "Growing of rambutan"
+  },
+  {
+    "misc_code": "01225",
+    "description": "Growing of star fruit"
+  },
+  {
+    "misc_code": "01226",
+    "description": "Growing of papaya"
+  },
+  {
+    "misc_code": "01227",
+    "description": "Growing of pineapple"
+  },
+  {
+    "misc_code": "01228",
+    "description": "Growing of pitaya (dragon fruit)"
+  },
+  {
+    "misc_code": "01229",
+    "description": "Growing of other tropical and subtropical fruits n.e.c."
+  },
+  {
+    "misc_code": "01231",
+    "description": "Growing of pomelo"
+  },
+  {
+    "misc_code": "01232",
+    "description": "Growing of lemon and limes"
+  },
+  {
+    "misc_code": "01233",
+    "description": "Growing of tangerines and mandarin"
+  },
+  {
+    "misc_code": "01239",
+    "description": "Growing of other citrus fruits n.e.c."
+  },
+  {
+    "misc_code": "01241",
+    "description": "Growing of guava"
+  },
+  {
+    "misc_code": "01249",
+    "description": "Growing of other pome fruits and stones fruits n.e.c."
+  },
+  {
+    "misc_code": "01251",
+    "description": "Growing of berries"
+  },
+  {
+    "misc_code": "01252",
+    "description": "Growing of fruit seeds"
+  },
+  {
+    "misc_code": "01253",
+    "description": "Growing of edible nuts"
+  },
+  {
+    "misc_code": "01259",
+    "description": "Growing of other tree and bush fruits"
+  },
+  {
+    "misc_code": "01261",
+    "description": "Growing of oil palm (estate)"
+  },
+  {
+    "misc_code": "01262",
+    "description": "Growing of oil palm (smallholdings)"
+  },
+  {
+    "misc_code": "01263",
+    "description": "Growing of coconut (estate and smallholdings)"
+  },
+  {
+    "misc_code": "01269",
+    "description": "Growing of other oleaginous fruits n.e.c."
+  },
+  {
+    "misc_code": "01271",
+    "description": "Growing of coffee"
+  },
+  {
+    "misc_code": "01272",
+    "description": "Growing of tea"
+  },
+  {
+    "misc_code": "01273",
+    "description": "Growing of cocoa"
+  },
+  {
+    "misc_code": "01279",
+    "description": "Growing of other beverage crops n.e.c."
+  },
+  {
+    "misc_code": "01281",
+    "description": "Growing of pepper (piper nigrum)"
+  },
+  {
+    "misc_code": "01282",
+    "description": "Growing of chilies and pepper (capsicum spp.)"
+  },
+  {
+    "misc_code": "01283",
+    "description": "Growing of nutmeg"
+  },
+  {
+    "misc_code": "01284",
+    "description": "Growing of ginger"
+  },
+  {
+    "misc_code": "01285",
+    "description": "Growing of plants used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes"
+  },
+  {
+    "misc_code": "01289",
+    "description": "Growing of other spices and aromatic crops n.e.c."
+  },
+  {
+    "misc_code": "01291",
+    "description": "Growing  of rubber trees (estate)"
+  },
+  {
+    "misc_code": "01292",
+    "description": "Growing of rubber trees (smallholdings)"
+  },
+  {
+    "misc_code": "01293",
+    "description": "Growing of trees for extraction of sap"
+  },
+  {
+    "misc_code": "01294",
+    "description": "Growing of nipa palm"
+  },
+  {
+    "misc_code": "01295",
+    "description": "Growing of areca"
+  },
+  {
+    "misc_code": "01296",
+    "description": "Growing of roselle"
+  },
+  {
+    "misc_code": "01299",
+    "description": "Growing of other perennial crops n.e.c."
+  },
+  {
+    "misc_code": "01301",
+    "description": "Growing of plants for planting"
+  },
+  {
+    "misc_code": "01302",
+    "description": "Growing of plants for ornamental purposes"
+  },
+  {
+    "misc_code": "01303",
+    "description": "Growing of live plants for bulbs, tubers and roots; cuttings and slips; mushroom spawn"
+  },
+  {
+    "misc_code": "01304",
+    "description": "Operation of tree nurseries"
+  },
+  {
+    "misc_code": "01411",
+    "description": "Raising, breeding and production of cattle or buffaloes"
+  },
+  {
+    "misc_code": "01412",
+    "description": "Production of raw milk from cows or buffaloes"
+  },
+  {
+    "misc_code": "01413",
+    "description": "Production of bovine semen"
+  },
+  {
+    "misc_code": "01420",
+    "description": "Raising and breeding of horses, asses, mules or hinnes"
+  },
+  {
+    "misc_code": "01430",
+    "description": "Raising and breeding of camels (dromedary) and camelids"
+  },
+  {
+    "misc_code": "01441",
+    "description": "Raising, breeding and production of sheep and goats"
+  },
+  {
+    "misc_code": "01442",
+    "description": "Production of raw sheep or goat’s milk"
+  },
+  {
+    "misc_code": "01443",
+    "description": "Production of raw wool"
+  },
+  {
+    "misc_code": "01450",
+    "description": "Raising, breeding and production of swine/pigs"
+  },
+  {
+    "misc_code": "01461",
+    "description": "Raising, breeding and production of chicken, broiler"
+  },
+  {
+    "misc_code": "01462",
+    "description": "Raising, breeding and production of ducks"
+  },
+  {
+    "misc_code": "01463",
+    "description": "Raising, breeding and production of geese"
+  },
+  {
+    "misc_code": "01464",
+    "description": "Raising, breeding and production of quails"
+  },
+  {
+    "misc_code": "01465",
+    "description": "Raising and breeding of other poultry n.e.c."
+  },
+  {
+    "misc_code": "01466",
+    "description": "Production of chicken eggs"
+  },
+  {
+    "misc_code": "01467",
+    "description": "Production of duck eggs"
+  },
+  {
+    "misc_code": "01468",
+    "description": "Production of other poultry eggs n.e.c."
+  },
+  {
+    "misc_code": "01469",
+    "description": "Operation of poultry hatcheries"
+  },
+  {
+    "misc_code": "01491",
+    "description": "Raising, breeding and production of semi-domesticated"
+  },
+  {
+    "misc_code": "01492",
+    "description": "Production of fur skins, reptile or bird’s skin from ranching operation"
+  },
+  {
+    "misc_code": "01493",
+    "description": "Operation of worm farms, land mollusc farms, snail farms"
+  },
+  {
+    "misc_code": "01494",
+    "description": "Raising of silk worms and production of silk worm cocoons"
+  },
+  {
+    "misc_code": "01495",
+    "description": "Bee keeping and production of honey and beeswax"
+  },
+  {
+    "misc_code": "01496",
+    "description": "Raising and breeding of pet animals"
+  },
+  {
+    "misc_code": "01497",
+    "description": "Raising and breeding of swiflet"
+  },
+  {
+    "misc_code": "01499",
+    "description": "Raising of diverse/other animals n.e.c."
+  },
+  {
+    "misc_code": "01500",
+    "description": "Mixed Farming"
+  },
+  {
+    "misc_code": "01610",
+    "description": "Agricultural activities for crops production on a fee or contract basis"
+  },
+  {
+    "misc_code": "01620",
+    "description": "Agricultural activities for animal production on a fee or contract basis"
+  },
+  {
+    "misc_code": "01631",
+    "description": "Preparation of crops for primary markets"
+  },
+  {
+    "misc_code": "01632",
+    "description": "Preparation of tobacco leaves"
+  },
+  {
+    "misc_code": "01633",
+    "description": "Preparation of cocoa beans"
+  },
+  {
+    "misc_code": "01634",
+    "description": "Sun-drying of fruits and vegetables"
+  },
+  {
+    "misc_code": "01640",
+    "description": "Seed processing for propagation"
+  },
+  {
+    "misc_code": "01701",
+    "description": "Hunting and trapping on a commercial basis"
+  },
+  {
+    "misc_code": "01702",
+    "description": "Taking of animals (dead or alive)"
+  },
+  {
+    "misc_code": "02101",
+    "description": "Planting, replanting, transplanting, thinning and conserving of forests and timber tracts"
+  },
+  {
+    "misc_code": "02102",
+    "description": "Growing of coppice, pulpwood and fire wood"
+  },
+  {
+    "misc_code": "02103",
+    "description": "Operation of forest tree nurseries"
+  },
+  {
+    "misc_code": "02104",
+    "description": "Collection and raising of wildings (peat swamp forest tree species)"
+  },
+  {
+    "misc_code": "02105",
+    "description": "Forest plantation"
+  },
+  {
+    "misc_code": "02201",
+    "description": "Production of round wood for forest-based manufacturing industries"
+  },
+  {
+    "misc_code": "02202",
+    "description": "Production of round wood used in an unprocessed form"
+  },
+  {
+    "misc_code": "02203",
+    "description": "Production of charcoal in the forest (using traditional methods)"
+  },
+  {
+    "misc_code": "02204",
+    "description": "Rubber wood logging"
+  },
+  {
+    "misc_code": "02301",
+    "description": "Collection of rattan, bamboo"
+  },
+  {
+    "misc_code": "02302",
+    "description": "Bird’s nest collection"
+  },
+  {
+    "misc_code": "02303",
+    "description": "Wild sago palm collection"
+  },
+  {
+    "misc_code": "02309",
+    "description": "Gathering of non-wood forest products n.e.c."
+  },
+  {
+    "misc_code": "02401",
+    "description": "Carrying out part of the forestry and forest plantation operation on a fee or contract basis for forestry service activities"
+  },
+  {
+    "misc_code": "02402",
+    "description": "Carrying out part of the forestry operation on a fee or contract basis for logging service activities"
+  },
+  {
+    "misc_code": "03111",
+    "description": "Fishing on a commercial basis in ocean and coastal waters"
+  },
+  {
+    "misc_code": "03112",
+    "description": "Collection of marine crustaceans and molluscs"
+  },
+  {
+    "misc_code": "03113",
+    "description": "Taking of aquatic animals: sea squirts, tunicates, sea urchins"
+  },
+  {
+    "misc_code": "03114",
+    "description": "Activities of vessels engaged both in fishing and in processing and preserving of fish"
+  },
+  {
+    "misc_code": "03115",
+    "description": "Gathering of other marine organisms and materials (natural pearls, sponges, coral and algae)"
+  },
+  {
+    "misc_code": "03119",
+    "description": "Marine fishing n.e.c."
+  },
+  {
+    "misc_code": "03121",
+    "description": "Fishing on a commercial basis in inland waters"
+  },
+  {
+    "misc_code": "03122",
+    "description": "Taking of freshwater crustaceans and molluscs"
+  },
+  {
+    "misc_code": "03123",
+    "description": "Taking of freshwater aquatic animals"
+  },
+  {
+    "misc_code": "03124",
+    "description": "Gathering of freshwater flora and fauna"
+  },
+  {
+    "misc_code": "03129",
+    "description": "Freshwater fishing n.e.c."
+  },
+  {
+    "misc_code": "03211",
+    "description": "Fish farming in sea water"
+  },
+  {
+    "misc_code": "03212",
+    "description": "Production of bivalve spat (oyster, mussel), lobster lings, shrimp post-larvae, fish fry and fingerlings"
+  },
+  {
+    "misc_code": "03213",
+    "description": "Growing of laver and other edible seaweeds"
+  },
+  {
+    "misc_code": "03214",
+    "description": "Culture of crustaceans, bivalves, other molluscs and other aquatic animals in sea water"
+  },
+  {
+    "misc_code": "03215",
+    "description": "Aquaculture activities in brackish water"
+  },
+  {
+    "misc_code": "03216",
+    "description": "Aquaculture activities in salt water filled tanks or reservoirs"
+  },
+  {
+    "misc_code": "03217",
+    "description": "Operation of  hatcheries (marine)"
+  },
+  {
+    "misc_code": "03218",
+    "description": "Operation of marine worm farms for fish feed"
+  },
+  {
+    "misc_code": "03219",
+    "description": "Marine aquaculture n.e.c."
+  },
+  {
+    "misc_code": "03221",
+    "description": "Fish farming in freshwater"
+  },
+  {
+    "misc_code": "03222",
+    "description": "Shrimp farming in freshwater"
+  },
+  {
+    "misc_code": "03223",
+    "description": "Culture of freshwater crustaceans, bivalves, other molluscs and other aquatic animals"
+  },
+  {
+    "misc_code": "03224",
+    "description": "Operation of hatcheries (freshwater)"
+  },
+  {
+    "misc_code": "03225",
+    "description": "Farming of frogs"
+  },
+  {
+    "misc_code": "03229",
+    "description": "Freshwater aquaculture n.e.c."
+  },
+  {
+    "misc_code": "05100",
+    "description": "Mining of hard coal"
+  },
+  {
+    "misc_code": "05200",
+    "description": "Mining of lignite (brown coal)"
+  },
+  {
+    "misc_code": "06101",
+    "description": "Extraction of crude petroleum oils"
+  },
+  {
+    "misc_code": "06102",
+    "description": "Extraction of bituminous or oil shale and tar sand"
+  },
+  {
+    "misc_code": "06103",
+    "description": "Production of crude petroleum from bituminous shale and sand"
+  },
+  {
+    "misc_code": "06104",
+    "description": "Processes to obtain crude oils"
+  },
+  {
+    "misc_code": "06201",
+    "description": "Production of crude gaseous hydrocarbon (natural gas)"
+  },
+  {
+    "misc_code": "06202",
+    "description": "Extraction of condensates"
+  },
+  {
+    "misc_code": "06203",
+    "description": "Draining and separation of liquid hydrocarbon fractions"
+  },
+  {
+    "misc_code": "06204",
+    "description": "Gas desulphurization"
+  },
+  {
+    "misc_code": "06205",
+    "description": "Mining of hydrocarbon liquids, obtain through liquefaction or pyrolysis"
+  },
+  {
+    "misc_code": "07101",
+    "description": "Mining of ores valued chiefly for iron content"
+  },
+  {
+    "misc_code": "07102",
+    "description": "Beneficiation and agglomeration of iron ores"
+  },
+  {
+    "misc_code": "07210",
+    "description": "Mining of uranium and thorium ores"
+  },
+  {
+    "misc_code": "07291",
+    "description": "Mining of tin ores"
+  },
+  {
+    "misc_code": "07292",
+    "description": "Mining of copper"
+  },
+  {
+    "misc_code": "07293",
+    "description": "Mining of bauxite (aluminium)"
+  },
+  {
+    "misc_code": "07294",
+    "description": "Mining of ilmenite"
+  },
+  {
+    "misc_code": "07295",
+    "description": "Mining of gold"
+  },
+  {
+    "misc_code": "07296",
+    "description": "Mining of silver"
+  },
+  {
+    "misc_code": "07297",
+    "description": "Mining of platinum"
+  },
+  {
+    "misc_code": "07298",
+    "description": "Amang retreatment"
+  },
+  {
+    "misc_code": "07299",
+    "description": "Mining of other non-ferrous metal ores n.e.c."
+  },
+  {
+    "misc_code": "08101",
+    "description": "Quarrying, rough trimming and sawing of monumental and building stone such as marble, granite (dimension stone), sandstone"
+  },
+  {
+    "misc_code": "08102",
+    "description": "Quarrying, crushing and breaking of limestone"
+  },
+  {
+    "misc_code": "08103",
+    "description": "Mining of gypsum and anhydrite"
+  },
+  {
+    "misc_code": "08104",
+    "description": "Mining of chalk and uncalcined dolomite"
+  },
+  {
+    "misc_code": "08105",
+    "description": "Extraction and dredging of industrial sand, sand for construction and gravel"
+  },
+  {
+    "misc_code": "08106",
+    "description": "Breaking and crushing of stone and gravel"
+  },
+  {
+    "misc_code": "08107",
+    "description": "Quarrying of sand"
+  },
+  {
+    "misc_code": "08108",
+    "description": "Mining of clays, refractory clays and kaolin"
+  },
+  {
+    "misc_code": "08109",
+    "description": "Quarrying, crushing and breaking of granite"
+  },
+  {
+    "misc_code": "08911",
+    "description": "Mining of natural phosphates"
+  },
+  {
+    "misc_code": "08912",
+    "description": "Mining of natural potassium salts"
+  },
+  {
+    "misc_code": "08913",
+    "description": "Mining of native sulphur"
+  },
+  {
+    "misc_code": "08914",
+    "description": "Extraction and preparation of pyrites and pyrrhotite, except roasting"
+  },
+  {
+    "misc_code": "08915",
+    "description": "Mining of natural barium sulphate and carbonate (barytes and witherite)"
+  },
+  {
+    "misc_code": "08916",
+    "description": "Mining of natural borates, natural magnesium sulphates (kieserite)"
+  },
+  {
+    "misc_code": "08917",
+    "description": "Mining of earth colours, fluorspar and other minerals valued chiefly as a source of chemicals"
+  },
+  {
+    "misc_code": "08918",
+    "description": "Guano mining"
+  },
+  {
+    "misc_code": "08921",
+    "description": "Peat digging"
+  },
+  {
+    "misc_code": "08922",
+    "description": "Peat agglomeration"
+  },
+  {
+    "misc_code": "08923",
+    "description": "Preparation of peat to improve quality or facilitate transport or storage"
+  },
+  {
+    "misc_code": "08931",
+    "description": "Extraction of salt from underground"
+  },
+  {
+    "misc_code": "08932",
+    "description": "Salt production by evaporation of sea water or other saline waters"
+  },
+  {
+    "misc_code": "08933",
+    "description": "Crushing, purification and refining of salt by the producer"
+  },
+  {
+    "misc_code": "08991",
+    "description": "Mining and quarrying of abrasive materials"
+  },
+  {
+    "misc_code": "08992",
+    "description": "Mining and quarrying of asbestos"
+  },
+  {
+    "misc_code": "08993",
+    "description": "Mining and quarrying of siliceous fossil meals"
+  },
+  {
+    "misc_code": "08994",
+    "description": "Mining and quarrying of natural graphite"
+  },
+  {
+    "misc_code": "08995",
+    "description": "Mining and quarrying of steatite (talc)"
+  },
+  {
+    "misc_code": "08996",
+    "description": "Mining and quarrying of gemstones"
+  },
+  {
+    "misc_code": "08999",
+    "description": "Other mining and quarrying n.e.c."
+  },
+  {
+    "misc_code": "09101",
+    "description": "Oil and gas extraction service activities provided on a fee or contract basis"
+  },
+  {
+    "misc_code": "09102",
+    "description": "Oil and gas field fire fighting services"
+  },
+  {
+    "misc_code": "09900",
+    "description": "Support activities for other mining and quarrying"
+  },
+  {
+    "misc_code": "10101",
+    "description": "Processing and preserving of meat and production of meat products"
+  },
+  {
+    "misc_code": "10102",
+    "description": "Processing and preserving of poultry and poultry products"
+  },
+  {
+    "misc_code": "10103",
+    "description": "Production of hides and skins originating from slaughterhouses"
+  },
+  {
+    "misc_code": "10104",
+    "description": "Operation of slaughterhouses engaged in killing, houses dressing or packing meat"
+  },
+  {
+    "misc_code": "10109",
+    "description": "Processing and preserving of meat n.e.c."
+  },
+  {
+    "misc_code": "10201",
+    "description": "Canning of fish, crustaceans and mollusks"
+  },
+  {
+    "misc_code": "10202",
+    "description": "Processing, curing and preserving of fish, crustacean and molluscs"
+  },
+  {
+    "misc_code": "10203",
+    "description": "Production of fish meals for human consumption or animal feed"
+  },
+  {
+    "misc_code": "10204",
+    "description": "Production of keropok including keropok lekor"
+  },
+  {
+    "misc_code": "10205",
+    "description": "Processing of seaweed"
+  },
+  {
+    "misc_code": "10301",
+    "description": "Manufacture of fruits and vegetable food products"
+  },
+  {
+    "misc_code": "10302",
+    "description": "Manufacture of fruit and vegetable juices"
+  },
+  {
+    "misc_code": "10303",
+    "description": "Pineapple canning"
+  },
+  {
+    "misc_code": "10304",
+    "description": "Manufacture of jams, marmalades and table jellies"
+  },
+  {
+    "misc_code": "10305",
+    "description": "Manufacture of nuts and nut products"
+  },
+  {
+    "misc_code": "10306",
+    "description": "Manufacture of bean curd products"
+  },
+  {
+    "misc_code": "10401",
+    "description": "Manufacture of crude palm oil"
+  },
+  {
+    "misc_code": "10402",
+    "description": "Manufacture of refined palm oil"
+  },
+  {
+    "misc_code": "10403",
+    "description": "Manufacture of palm kernel oil"
+  },
+  {
+    "misc_code": "10404",
+    "description": "Manufacture of crude and refined vegetable oil"
+  },
+  {
+    "misc_code": "10405",
+    "description": "Manufacture of coconut oil"
+  },
+  {
+    "misc_code": "10406",
+    "description": "Manufacture of compound cooking fats"
+  },
+  {
+    "misc_code": "10407",
+    "description": "Manufacture of animal oils and fats"
+  },
+  {
+    "misc_code": "10501",
+    "description": "Manufacture of ice cream and other edible ice such as sorbet"
+  },
+  {
+    "misc_code": "10502",
+    "description": "Manufacture of condensed, powdered and evaporated milk"
+  },
+  {
+    "misc_code": "10509",
+    "description": "Manufacture of other dairy products n.e.c."
+  },
+  {
+    "misc_code": "10611",
+    "description": "Rice milling"
+  },
+  {
+    "misc_code": "10612",
+    "description": "Provision of milling services"
+  },
+  {
+    "misc_code": "10613",
+    "description": "Flour milling"
+  },
+  {
+    "misc_code": "10619",
+    "description": "Manufacture of grain mill products n.e.c."
+  },
+  {
+    "misc_code": "10621",
+    "description": "Manufacture of starches and starch products"
+  },
+  {
+    "misc_code": "10622",
+    "description": "Manufacture of glucose, glucose syrup, maltose, inulin"
+  },
+  {
+    "misc_code": "10623",
+    "description": "Manufacture of sago and tapioca flour/products"
+  },
+  {
+    "misc_code": "10711",
+    "description": "Manufacture of biscuits and cookies"
+  },
+  {
+    "misc_code": "10712",
+    "description": "Manufacture of bread, cakes and other bakery products"
+  },
+  {
+    "misc_code": "10713",
+    "description": "Manufacture of snack products"
+  },
+  {
+    "misc_code": "10714",
+    "description": "Manufacture of frozen bakery products"
+  },
+  {
+    "misc_code": "10721",
+    "description": "Manufacture of sugar"
+  },
+  {
+    "misc_code": "10722",
+    "description": "Manufacture of sugar products"
+  },
+  {
+    "misc_code": "10731",
+    "description": "Manufacture of cocoa products"
+  },
+  {
+    "misc_code": "10732",
+    "description": "Manufacture of chocolate and chocolate products"
+  },
+  {
+    "misc_code": "10733",
+    "description": "Manufacture of sugar confectionery"
+  },
+  {
+    "misc_code": "10741",
+    "description": "Manufacture of meehoon, noodles and other related products"
+  },
+  {
+    "misc_code": "10742",
+    "description": "Manufacture of pastas"
+  },
+  {
+    "misc_code": "10750",
+    "description": "Manufacture of prepared meals and dishes"
+  },
+  {
+    "misc_code": "10791",
+    "description": "Manufacture of coffee"
+  },
+  {
+    "misc_code": "10792",
+    "description": "Manufacture of tea"
+  },
+  {
+    "misc_code": "10793",
+    "description": "Manufacture of sauces and condiments"
+  },
+  {
+    "misc_code": "10794",
+    "description": "Manufacture of spices and curry powder"
+  },
+  {
+    "misc_code": "10795",
+    "description": "Manufacture of egg products"
+  },
+  {
+    "misc_code": "10799",
+    "description": "Manufacture of other food products n.e.c."
+  },
+  {
+    "misc_code": "10800",
+    "description": "Manufacture of prepared animal feeds"
+  },
+  {
+    "misc_code": "11010",
+    "description": "Distilling, rectifying and blending of spirits"
+  },
+  {
+    "misc_code": "11020",
+    "description": "Manufacture of wines"
+  },
+  {
+    "misc_code": "11030",
+    "description": "Manufacture of malt liquors and malt"
+  },
+  {
+    "misc_code": "11041",
+    "description": "Manufacture of soft drinks"
+  },
+  {
+    "misc_code": "11042",
+    "description": "Production of natural mineral water and other bottled water"
+  },
+  {
+    "misc_code": "12000",
+    "description": "MANUFACTURE OF TOBACCO PRODUCTS"
+  },
+  {
+    "misc_code": "13110",
+    "description": "Preparation and spinning of textile fibres"
+  },
+  {
+    "misc_code": "13120",
+    "description": "Weaving of textiles"
+  },
+  {
+    "misc_code": "13131",
+    "description": "Batik making"
+  },
+  {
+    "misc_code": "13132",
+    "description": "Dyeing, bleaching, printing and finishing of yarns and fabrics"
+  },
+  {
+    "misc_code": "13139",
+    "description": "Other finishing textiles"
+  },
+  {
+    "misc_code": "13910",
+    "description": "Manufacture of knitted and crocheted fabrics"
+  },
+  {
+    "misc_code": "13921",
+    "description": "Manufacture of made-up articles of any textile materials, including of knitted or crocheted fabrics"
+  },
+  {
+    "misc_code": "13922",
+    "description": "Manufacture of made-up furnishing articles"
+  },
+  {
+    "misc_code": "13930",
+    "description": "Manufacture of carpets and rugs"
+  },
+  {
+    "misc_code": "13940",
+    "description": "Manufacture of cordage, rope, twine and netting"
+  },
+  {
+    "misc_code": "13990",
+    "description": "Manufacture of other textiles n.e.c."
+  },
+  {
+    "misc_code": "14101",
+    "description": "Manufacture of specific wearing apparel"
+  },
+  {
+    "misc_code": "14102",
+    "description": "Manufacture of clothings"
+  },
+  {
+    "misc_code": "14103",
+    "description": "Custom tailoring"
+  },
+  {
+    "misc_code": "14109",
+    "description": "Manufacture of other clothing accessories"
+  },
+  {
+    "misc_code": "14200",
+    "description": "Manufacture of articles made of fur skins"
+  },
+  {
+    "misc_code": "14300",
+    "description": "Manufacture of knitted and crocheted apparel"
+  },
+  {
+    "misc_code": "15110",
+    "description": "Tanning and dressing of leather; dressing and dyeing of fur"
+  },
+  {
+    "misc_code": "15120",
+    "description": "Manufacture of luggage, handbags and the like, saddlery and harness"
+  },
+  {
+    "misc_code": "15201",
+    "description": "Manufacture of leather footwear"
+  },
+  {
+    "misc_code": "15202",
+    "description": "Manufacture of plastic footwear"
+  },
+  {
+    "misc_code": "15203",
+    "description": "Manufacture of rubber footwear"
+  },
+  {
+    "misc_code": "15209",
+    "description": "Manufacture of other footwear n.e.c."
+  },
+  {
+    "misc_code": "16100",
+    "description": "Sawmilling and planning of wood"
+  },
+  {
+    "misc_code": "16211",
+    "description": "Manufacture of veneer sheets and plywood"
+  },
+  {
+    "misc_code": "16212",
+    "description": "Manufacture of particle board and fibreboard"
+  },
+  {
+    "misc_code": "16221",
+    "description": "Manufacture of builders' carpentry"
+  },
+  {
+    "misc_code": "16222",
+    "description": "Manufacture of joinery wood products"
+  },
+  {
+    "misc_code": "16230",
+    "description": "Manufacture of wooden containers"
+  },
+  {
+    "misc_code": "16291",
+    "description": "Manufacture of wood charcoal"
+  },
+  {
+    "misc_code": "16292",
+    "description": "Manufacture of other products of wood, cane, articles of cork, straw and plaiting materials"
+  },
+  {
+    "misc_code": "17010",
+    "description": "Manufacture of pulp, paper and paperboard"
+  },
+  {
+    "misc_code": "17020",
+    "description": "Manufacture of corrugated paper and paperboard and of containers of paper and paperboard"
+  },
+  {
+    "misc_code": "17091",
+    "description": "Manufacture of envelopes and letter-card"
+  },
+  {
+    "misc_code": "17092",
+    "description": "Manufacture of household and personal hygiene paper"
+  },
+  {
+    "misc_code": "17093",
+    "description": "Manufacture of gummed or adhesive paper in strips or rolls and labels and wall paper"
+  },
+  {
+    "misc_code": "17094",
+    "description": "Manufacture of effigies, funeral paper goods, joss paper"
+  },
+  {
+    "misc_code": "17099",
+    "description": "Manufacture of other articles of paper and paperboard n.e.c."
+  },
+  {
+    "misc_code": "18110",
+    "description": "Printing"
+  },
+  {
+    "misc_code": "18120",
+    "description": "Service activities related to printing"
+  },
+  {
+    "misc_code": "18200",
+    "description": "Reproduction of recorded media"
+  },
+  {
+    "misc_code": "19100",
+    "description": "Manufacture of coke oven products"
+  },
+  {
+    "misc_code": "19201",
+    "description": "Manufacture of refined petroleum products"
+  },
+  {
+    "misc_code": "19202",
+    "description": "Manufacture of bio-diesel products"
+  },
+  {
+    "misc_code": "20111",
+    "description": "Manufacture of liquefied or compressed inorganic industrial or medical gases"
+  },
+  {
+    "misc_code": "20112",
+    "description": "Manufacture of basic organic chemicals"
+  },
+  {
+    "misc_code": "20113",
+    "description": "Manufacture of inorganic compounds"
+  },
+  {
+    "misc_code": "20119",
+    "description": "Manufacture of other basic chemicals n.e.c."
+  },
+  {
+    "misc_code": "20121",
+    "description": "Manufacture of fertilizers"
+  },
+  {
+    "misc_code": "20129",
+    "description": "Manufacture of associated nitrogen products"
+  },
+  {
+    "misc_code": "20131",
+    "description": "Manufacture of plastic in primary forms"
+  },
+  {
+    "misc_code": "20132",
+    "description": "Manufacture of synthetic rubber in primary forms: synthetic rubber, factice"
+  },
+  {
+    "misc_code": "20133",
+    "description": "Manufacture of mixtures of synthetic rubber and natural rubber or rubber - like gums"
+  },
+  {
+    "misc_code": "20210",
+    "description": "Manufacture of pesticides and other agrochemical products"
+  },
+  {
+    "misc_code": "20221",
+    "description": "Manufacture of paints, varnishes and similar coatings ink and mastics"
+  },
+  {
+    "misc_code": "20222",
+    "description": "Manufacture of printing ink"
+  },
+  {
+    "misc_code": "20231",
+    "description": "Manufacture of soap and detergents, cleaning and polishing preparations"
+  },
+  {
+    "misc_code": "20232",
+    "description": "Manufacture of perfumes and toilet preparations"
+  },
+  {
+    "misc_code": "20291",
+    "description": "Manufacture of photographic plates, films, sensitized paper and other sensitized unexposed materials"
+  },
+  {
+    "misc_code": "20292",
+    "description": "Manufacture of writing and drawing ink"
+  },
+  {
+    "misc_code": "20299",
+    "description": "Manufacture of other chemical products n.e.c."
+  },
+  {
+    "misc_code": "20300",
+    "description": "Manufacture of man-made fibres"
+  },
+  {
+    "misc_code": "21001",
+    "description": "Manufacture of medicinal active substances to be used for their pharmacological properties in the manufacture of medicaments"
+  },
+  {
+    "misc_code": "21002",
+    "description": "Processing of blood"
+  },
+  {
+    "misc_code": "21003",
+    "description": "Manufacture of medicaments"
+  },
+  {
+    "misc_code": "21004",
+    "description": "Manufacture of chemical contraceptive products"
+  },
+  {
+    "misc_code": "21005",
+    "description": "Manufacture of medical diagnostic preparation"
+  },
+  {
+    "misc_code": "21006",
+    "description": "Manufacture of radioactive in-vivo diagnostic substances"
+  },
+  {
+    "misc_code": "21007",
+    "description": "Manufacture of biotech pharmaceuticals"
+  },
+  {
+    "misc_code": "21009",
+    "description": "Manufacture of other pharmaceuticals, medicinal chemical and botanical products n.e.c."
+  },
+  {
+    "misc_code": "22111",
+    "description": "Manufacture of rubber tyres for vehicles"
+  },
+  {
+    "misc_code": "22112",
+    "description": "Manufacture of interchangeable tyre treads and retreading rubber tyres"
+  },
+  {
+    "misc_code": "22191",
+    "description": "Manufacture of other products of natural or synthetic rubber, unvulcanized, vulcanized or hardened"
+  },
+  {
+    "misc_code": "22192",
+    "description": "Manufacture of rubber gloves"
+  },
+  {
+    "misc_code": "22193",
+    "description": "Rubber remilling and latex processing"
+  },
+  {
+    "misc_code": "22199",
+    "description": "Manufacture of other rubber products n.e.c"
+  },
+  {
+    "misc_code": "22201",
+    "description": "Manufacture of semi-manufactures of plastic products"
+  },
+  {
+    "misc_code": "22202",
+    "description": "Manufacture of finished plastic products"
+  },
+  {
+    "misc_code": "22203",
+    "description": "Manufacture of plastic articles for the packing of goods"
+  },
+  {
+    "misc_code": "22204",
+    "description": "Manufacture of builders' plastics ware"
+  },
+  {
+    "misc_code": "22205",
+    "description": "Manufacture of plastic tableware, kitchenware and toilet articles"
+  },
+  {
+    "misc_code": "22209",
+    "description": "Manufacture of diverse plastic products n.e.c."
+  },
+  {
+    "misc_code": "23101",
+    "description": "Manufacture of flat glass, including wired, coloured or tinted flat glass"
+  },
+  {
+    "misc_code": "23102",
+    "description": "Manufacture of laboratory, hygienic or pharmaceutical glassware"
+  },
+  {
+    "misc_code": "23109",
+    "description": "Manufacture of other glass products n.e.c."
+  },
+  {
+    "misc_code": "23911",
+    "description": "Manufacture of refractory mortars and concretes"
+  },
+  {
+    "misc_code": "23912",
+    "description": "Manufacture of refractory ceramic goods"
+  },
+  {
+    "misc_code": "23921",
+    "description": "Manufacture of non-refractory ceramic"
+  },
+  {
+    "misc_code": "23929",
+    "description": "Manufacture of other clay building materials"
+  },
+  {
+    "misc_code": "23930",
+    "description": "Manufacture of other porcelain and ceramic products"
+  },
+  {
+    "misc_code": "23941",
+    "description": "Manufacture of hydraulic cement"
+  },
+  {
+    "misc_code": "23942",
+    "description": "Manufacture of lime and plaster"
+  },
+  {
+    "misc_code": "23951",
+    "description": "Manufacture of ready-mix and dry-mix concrete and mortars"
+  },
+  {
+    "misc_code": "23952",
+    "description": "Manufacture of precast concrete, cement or artificial stone articles for use in construction"
+  },
+  {
+    "misc_code": "23953",
+    "description": "Manufacture of prefabricated structural components for building or civil engineering of cement, concrete or artificial stone"
+  },
+  {
+    "misc_code": "23959",
+    "description": "Manufacture of other articles of concrete, cement and plaster n.e.c."
+  },
+  {
+    "misc_code": "23960",
+    "description": "Cutting, shaping and finishing of stone"
+  },
+  {
+    "misc_code": "23990",
+    "description": "Manufacture of other non-metallic mineral products n.e.c."
+  },
+  {
+    "misc_code": "24101",
+    "description": "Production of pig iron and spiegeleisen in pigs, blocks or other primary forms"
+  },
+  {
+    "misc_code": "24102",
+    "description": "Production of bars and rods of stainless steel or other alloy steel"
+  },
+  {
+    "misc_code": "24103",
+    "description": "Manufacture of seamless tubes, by hot rolling, hot extrusion or hot drawing, or by cold drawing or cold rolling"
+  },
+  {
+    "misc_code": "24104",
+    "description": "Manufacture of steel tube fittings"
+  },
+  {
+    "misc_code": "24109",
+    "description": "Manufacture of other basic iron and steel products n.e.c."
+  },
+  {
+    "misc_code": "24201",
+    "description": "Tin smelting"
+  },
+  {
+    "misc_code": "24202",
+    "description": "Production of aluminium from alumina"
+  },
+  {
+    "misc_code": "24209",
+    "description": "Manufacture of other basic precious and other non-ferrous metals n.e.c."
+  },
+  {
+    "misc_code": "24311",
+    "description": "Casting of iron"
+  },
+  {
+    "misc_code": "24312",
+    "description": "Casting of steel"
+  },
+  {
+    "misc_code": "24320",
+    "description": "Casting of non-ferrous metals"
+  },
+  {
+    "misc_code": "25111",
+    "description": "Manufacture of industrial frameworks in metal"
+  },
+  {
+    "misc_code": "25112",
+    "description": "Manufacture of prefabricated buildings mainly of metal"
+  },
+  {
+    "misc_code": "25113",
+    "description": "Manufacture of metal doors, windows and their frames, shutters and gates"
+  },
+  {
+    "misc_code": "25119",
+    "description": "Manufacture of other structural metal products"
+  },
+  {
+    "misc_code": "25120",
+    "description": "Manufacture of tanks, reservoirs and containers of metal"
+  },
+  {
+    "misc_code": "25130",
+    "description": "Manufacture of steam generators, except central heating hot water boilers"
+  },
+  {
+    "misc_code": "25200",
+    "description": "Manufacture of weapons and ammunition"
+  },
+  {
+    "misc_code": "25910",
+    "description": "Forging, pressing, stamping and roll-forming of metal; powder metallurgy"
+  },
+  {
+    "misc_code": "25920",
+    "description": "Treatment and coating of metals; machining"
+  },
+  {
+    "misc_code": "25930",
+    "description": "Manufacture of cutlery, hand tools and general hardware"
+  },
+  {
+    "misc_code": "25991",
+    "description": "Manufacture of tins and cans for food products, collapsible tubes and boxes"
+  },
+  {
+    "misc_code": "25992",
+    "description": "Manufacture of metal cable, plaited bands and similar articles"
+  },
+  {
+    "misc_code": "25993",
+    "description": "Manufacture of bolts, screws, nuts and similar threaded products"
+  },
+  {
+    "misc_code": "25994",
+    "description": "Manufacture of metal household articles"
+  },
+  {
+    "misc_code": "25999",
+    "description": "Manufacture of any other fabricated metal products n.e.c."
+  },
+  {
+    "misc_code": "26101",
+    "description": "Manufacture of diodes, transistors and similar semiconductor devices"
+  },
+  {
+    "misc_code": "26102",
+    "description": "Manufacture electronic integrated circuits micro assemblies"
+  },
+  {
+    "misc_code": "26103",
+    "description": "Manufacture of electrical capacitors and resistors"
+  },
+  {
+    "misc_code": "26104",
+    "description": "Manufacture of printed circuit boards"
+  },
+  {
+    "misc_code": "26105",
+    "description": "Manufacture of display components"
+  },
+  {
+    "misc_code": "26109",
+    "description": "Manufacture of other components for electronic applications"
+  },
+  {
+    "misc_code": "26201",
+    "description": "Manufacture of computers"
+  },
+  {
+    "misc_code": "26202",
+    "description": "Manufacture of peripheral equipment"
+  },
+  {
+    "misc_code": "26300",
+    "description": "Manufacture of communication equipment"
+  },
+  {
+    "misc_code": "26400",
+    "description": "Manufacture of consumer electronics"
+  },
+  {
+    "misc_code": "26511",
+    "description": "Manufacture of measuring, testing, navigating and control equipment"
+  },
+  {
+    "misc_code": "26512",
+    "description": "Manufacture of industrial process control equipment"
+  },
+  {
+    "misc_code": "26520",
+    "description": "Manufacture of watches and clocks and parts"
+  },
+  {
+    "misc_code": "26600",
+    "description": "Manufacture of irradiation, electro medical and electrotherapeutic equipment"
+  },
+  {
+    "misc_code": "26701",
+    "description": "Manufacture of optical instruments and equipment"
+  },
+  {
+    "misc_code": "26702",
+    "description": "Manufacture of photographic equipment"
+  },
+  {
+    "misc_code": "26800",
+    "description": "Manufacture of magnetic and optical recording media"
+  },
+  {
+    "misc_code": "27101",
+    "description": "Manufacture of electric motors, generators and transformers"
+  },
+  {
+    "misc_code": "27102",
+    "description": "Manufacture of electricity distribution and control apparatus"
+  },
+  {
+    "misc_code": "27200",
+    "description": "Manufacture of batteries and accumulators"
+  },
+  {
+    "misc_code": "27310",
+    "description": "Manufacture of fibre optic cables"
+  },
+  {
+    "misc_code": "27320",
+    "description": "Manufacture of other electronic and electric wires and cables"
+  },
+  {
+    "misc_code": "27330",
+    "description": "Manufacture of current-carrying and non current-carrying wiring devices for electrical circuits regardless of material"
+  },
+  {
+    "misc_code": "27400",
+    "description": "Manufacture of electric lighting equipment"
+  },
+  {
+    "misc_code": "27500",
+    "description": "Manufacture of domestic appliances"
+  },
+  {
+    "misc_code": "27900",
+    "description": "Manufacture of miscellaneous electrical equipment other than motors, generators and transformers, batteries and accumulators, wires and wiring devices, lighting equipment or domestic appliances"
+  },
+  {
+    "misc_code": "28110",
+    "description": "Manufacture of engines and turbines, except aircraft, vehicle and cycle engines"
+  },
+  {
+    "misc_code": "28120",
+    "description": "Manufacture of fluid power equipment"
+  },
+  {
+    "misc_code": "28130",
+    "description": "Manufacture of other pumps, compressors, taps and valves"
+  },
+  {
+    "misc_code": "28140",
+    "description": "Manufacture of bearings, gears, gearing and driving elements"
+  },
+  {
+    "misc_code": "28150",
+    "description": "Manufacture of ovens, furnaces and furnace burners"
+  },
+  {
+    "misc_code": "28160",
+    "description": "Manufacture of lifting and handling equipment"
+  },
+  {
+    "misc_code": "28170",
+    "description": "Manufacture of office machinery and equipment (except computers and peripheral equipment)"
+  },
+  {
+    "misc_code": "28180",
+    "description": "Manufacture of power-driven hand tools with self-contained electric or non-electric motor or pneumatic drives"
+  },
+  {
+    "misc_code": "28191",
+    "description": "Manufacture of refrigerating or freezing industrial equipment"
+  },
+  {
+    "misc_code": "28192",
+    "description": "Manufacture of air-conditioning machines, including for motor vehicles"
+  },
+  {
+    "misc_code": "28199",
+    "description": "Manufacture of other general-purpose machinery n.e.c."
+  },
+  {
+    "misc_code": "28210",
+    "description": "Manufacture of agricultural and forestry machinery"
+  },
+  {
+    "misc_code": "28220",
+    "description": "Manufacture of metal-forming machinery and machine tools"
+  },
+  {
+    "misc_code": "28230",
+    "description": "Manufacture of machinery for metallurgy"
+  },
+  {
+    "misc_code": "28240",
+    "description": "Manufacture of machinery for mining, quarrying and construction"
+  },
+  {
+    "misc_code": "28250",
+    "description": "Manufacture of machinery for food, beverage and tobacco processing"
+  },
+  {
+    "misc_code": "28260",
+    "description": "Manufacture of machinery for textile, apparel and leather production"
+  },
+  {
+    "misc_code": "28290",
+    "description": "Manufacture of other special-purpose machinery n.e.c."
+  },
+  {
+    "misc_code": "29101",
+    "description": "Manufacture of passenger cars"
+  },
+  {
+    "misc_code": "29102",
+    "description": "Manufacture of commercial vehicles"
+  },
+  {
+    "misc_code": "29200",
+    "description": "Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers"
+  },
+  {
+    "misc_code": "29300",
+    "description": "Manufacture of parts and accessories for motor vehicles"
+  },
+  {
+    "misc_code": "30110",
+    "description": "Building of ships and floating structures"
+  },
+  {
+    "misc_code": "30120",
+    "description": "Building of pleasure and sporting boats"
+  },
+  {
+    "misc_code": "30200",
+    "description": "Manufacture of railway locomotives and rolling stock"
+  },
+  {
+    "misc_code": "30300",
+    "description": "Manufacture of air and spacecraft and related machinery"
+  },
+  {
+    "misc_code": "30400",
+    "description": "Manufacture of military fighting vehicles"
+  },
+  {
+    "misc_code": "30910",
+    "description": "Manufacture of motorcycles"
+  },
+  {
+    "misc_code": "30920",
+    "description": "Manufacture of bicycles and invalid carriages"
+  },
+  {
+    "misc_code": "30990",
+    "description": "Manufacture of other transport equipments n.e.c."
+  },
+  {
+    "misc_code": "31001",
+    "description": "Manufacture of wooden and cane furniture"
+  },
+  {
+    "misc_code": "31002",
+    "description": "Manufacture of metal furniture"
+  },
+  {
+    "misc_code": "31003",
+    "description": "Manufacture of mattress"
+  },
+  {
+    "misc_code": "31009",
+    "description": "Manufacture of other furniture, except of stone, concrete or ceramic"
+  },
+  {
+    "misc_code": "32110",
+    "description": "Manufacture of jewellery and related articles"
+  },
+  {
+    "misc_code": "32120",
+    "description": "Manufacture of imitation jewellery and related articles"
+  },
+  {
+    "misc_code": "32200",
+    "description": "Manufacture of musical instruments"
+  },
+  {
+    "misc_code": "32300",
+    "description": "Manufacture of sports goods"
+  },
+  {
+    "misc_code": "32400",
+    "description": "Manufacture of games and toys"
+  },
+  {
+    "misc_code": "32500",
+    "description": "Manufacture of medical and dental instrument and supplies"
+  },
+  {
+    "misc_code": "32901",
+    "description": "Manufacture of stationery"
+  },
+  {
+    "misc_code": "32909",
+    "description": "Other manufacturing n.e.c."
+  },
+  {
+    "misc_code": "33110",
+    "description": "Repair of fabricated metal products"
+  },
+  {
+    "misc_code": "33120",
+    "description": "Repair and maintenance of industrial machinery and equipment"
+  },
+  {
+    "misc_code": "33131",
+    "description": "Repair and maintenance of the measuring, testing, navigating and control equipment"
+  },
+  {
+    "misc_code": "33132",
+    "description": "Repair and maintenance of irradiation, electro medical and electrotherapeutic equipment"
+  },
+  {
+    "misc_code": "33133",
+    "description": "Repair of optical instruments and photographic equipment"
+  },
+  {
+    "misc_code": "33140",
+    "description": "Repair and maintenance of electrical equipment except domestic appliances"
+  },
+  {
+    "misc_code": "33150",
+    "description": "Repair and maintenance of transport equipment except motorcycles and bicycles"
+  },
+  {
+    "misc_code": "33190",
+    "description": "Repair and maintenance of other equipment n.e.c."
+  },
+  {
+    "misc_code": "33200",
+    "description": "Installation of industrial machinery and equipment"
+  },
+  {
+    "misc_code": "35101",
+    "description": "Operation of generation facilities that produce electric energy"
+  },
+  {
+    "misc_code": "35102",
+    "description": "Operation of transmission, distribution and sales of electricity"
+  },
+  {
+    "misc_code": "35201",
+    "description": "Manufacture of gaseous fuels with a specified calorific value, by purification, blending and other processes from gases of various types including natural gas"
+  },
+  {
+    "misc_code": "35202",
+    "description": "Transportation, distribution and supply of gaseous fuels of all kinds through a system of mains"
+  },
+  {
+    "misc_code": "35203",
+    "description": "Sale of gas to the user through mains"
+  },
+  {
+    "misc_code": "35301",
+    "description": "Production, collection and distribution of steam and hot water for heating, power and other purposes"
+  },
+  {
+    "misc_code": "35302",
+    "description": "Production and distribution of cooled air, chilled water for cooling purposes"
+  },
+  {
+    "misc_code": "35303",
+    "description": "Production of ice, including ice for food and non-food (e.g. cooling) purposes"
+  },
+  {
+    "misc_code": "36001",
+    "description": "Purification and distribution of water for water supply purposes"
+  },
+  {
+    "misc_code": "36002",
+    "description": "Desalting of sea or ground water to produce water as the principal product of interest"
+  },
+  {
+    "misc_code": "37000",
+    "description": "Sewerage and similar activities"
+  },
+  {
+    "misc_code": "38111",
+    "description": "Collection of non-hazardous solid waste (i.e. garbage) within a local area"
+  },
+  {
+    "misc_code": "38112",
+    "description": "Collection of recyclable materials"
+  },
+  {
+    "misc_code": "38113",
+    "description": "Collection of refuse in litter-bins in public places"
+  },
+  {
+    "misc_code": "38114",
+    "description": "Collection of construction and demolition waste"
+  },
+  {
+    "misc_code": "38115",
+    "description": "Operation of waste transfer stations for non-hazardous waste"
+  },
+  {
+    "misc_code": "38121",
+    "description": "Collection of hazardous waste"
+  },
+  {
+    "misc_code": "38122",
+    "description": "Operation of waste transfer stations for hazardous waste"
+  },
+  {
+    "misc_code": "38210",
+    "description": "Treatment and disposal of non-hazardous waste"
+  },
+  {
+    "misc_code": "38220",
+    "description": "Treatment and disposal of hazardous waste"
+  },
+  {
+    "misc_code": "38301",
+    "description": "Mechanical crushing of metal waste"
+  },
+  {
+    "misc_code": "38302",
+    "description": "Dismantling of automobiles, computers, televisions and other equipment for material recover"
+  },
+  {
+    "misc_code": "38303",
+    "description": "Reclaiming of rubber such as used tires to produce secondary raw material"
+  },
+  {
+    "misc_code": "38304",
+    "description": "Reuse of rubber products"
+  },
+  {
+    "misc_code": "38309",
+    "description": "Materials recovery n.e.c."
+  },
+  {
+    "misc_code": "39000",
+    "description": "Remediation activities and other waste management services"
+  },
+  {
+    "misc_code": "41001",
+    "description": "Residential buildings"
+  },
+  {
+    "misc_code": "41002",
+    "description": "Non-residential buildings"
+  },
+  {
+    "misc_code": "41003",
+    "description": "Assembly and erection of prefabricated constructions on the site"
+  },
+  {
+    "misc_code": "41009",
+    "description": "Construction of buildings n.e.c."
+  },
+  {
+    "misc_code": "42101",
+    "description": "Construction of motorways, streets, roads, other vehicular and pedestrian ways"
+  },
+  {
+    "misc_code": "42102",
+    "description": "Surface work on streets, roads, highways, bridges or tunnels"
+  },
+  {
+    "misc_code": "42103",
+    "description": "Construction of bridges, including those for elevated highways"
+  },
+  {
+    "misc_code": "42104",
+    "description": "Construction of tunnels"
+  },
+  {
+    "misc_code": "42105",
+    "description": "Construction of railways and subways"
+  },
+  {
+    "misc_code": "42106",
+    "description": "Construction of airfield/airports runways"
+  },
+  {
+    "misc_code": "42109",
+    "description": "Construction of roads and railways n.e.c."
+  },
+  {
+    "misc_code": "42201",
+    "description": "Long-distance pipelines, communication and power lines"
+  },
+  {
+    "misc_code": "42202",
+    "description": "Urban pipelines, urban communication and power lines; ancillary urban works"
+  },
+  {
+    "misc_code": "42203",
+    "description": "Water main and line construction"
+  },
+  {
+    "misc_code": "42204",
+    "description": "Reservoirs"
+  },
+  {
+    "misc_code": "42205",
+    "description": "Construction of irrigation systems (canals)"
+  },
+  {
+    "misc_code": "42206",
+    "description": "Construction of sewer systems (including repair) and sewage disposal plants"
+  },
+  {
+    "misc_code": "42207",
+    "description": "Construction of power plants"
+  },
+  {
+    "misc_code": "42209",
+    "description": "Construction of utility projects n.e.c."
+  },
+  {
+    "misc_code": "42901",
+    "description": "Construction of refineries"
+  },
+  {
+    "misc_code": "42902",
+    "description": "Construction of waterways, harbour and river works, pleasure ports (marinas), locks"
+  },
+  {
+    "misc_code": "42903",
+    "description": "Construction of dams and dykes"
+  },
+  {
+    "misc_code": "42904",
+    "description": "Dredging of waterways"
+  },
+  {
+    "misc_code": "42905",
+    "description": "Outdoor sports facilities"
+  },
+  {
+    "misc_code": "42906",
+    "description": "Land subdivision with land improvement"
+  },
+  {
+    "misc_code": "42909",
+    "description": "Construction of other engineering projects n.e.c."
+  },
+  {
+    "misc_code": "43110",
+    "description": "Demolition or wrecking of buildings and other structures"
+  },
+  {
+    "misc_code": "43121",
+    "description": "Clearing of building sites"
+  },
+  {
+    "misc_code": "43122",
+    "description": "Earth moving"
+  },
+  {
+    "misc_code": "43123",
+    "description": "Drilling, boring and core sampling for construction, geophysical, geological or similar purposes"
+  },
+  {
+    "misc_code": "43124",
+    "description": "Site preparation for mining"
+  },
+  {
+    "misc_code": "43125",
+    "description": "Drainage of agricultural or forestry land"
+  },
+  {
+    "misc_code": "43126",
+    "description": "Land reclamation work"
+  },
+  {
+    "misc_code": "43129",
+    "description": "Other site preparation activities n.e.c."
+  },
+  {
+    "misc_code": "43211",
+    "description": "Electrical wiring and fittings"
+  },
+  {
+    "misc_code": "43212",
+    "description": "Telecommunications wiring"
+  },
+  {
+    "misc_code": "43213",
+    "description": "Computer network and cable television wiring"
+  },
+  {
+    "misc_code": "43214",
+    "description": "Satellite dishes"
+  },
+  {
+    "misc_code": "43215",
+    "description": "Lighting systems"
+  },
+  {
+    "misc_code": "43216",
+    "description": "Security systems"
+  },
+  {
+    "misc_code": "43219",
+    "description": "Electrical installation n.e.c."
+  },
+  {
+    "misc_code": "43221",
+    "description": "Installation of heating systems (electric, gas and oil)"
+  },
+  {
+    "misc_code": "43222",
+    "description": "Installation of furnaces, cooling towers"
+  },
+  {
+    "misc_code": "43223",
+    "description": "Installation of non-electric solar energy collectors"
+  },
+  {
+    "misc_code": "43224",
+    "description": "Installation of plumbing and sanitary equipment"
+  },
+  {
+    "misc_code": "43225",
+    "description": "Installation of ventilation, refrigeration or air-conditioning equipment and ducts"
+  },
+  {
+    "misc_code": "43226",
+    "description": "Installation of gas fittings"
+  },
+  {
+    "misc_code": "43227",
+    "description": "Installation of fire and lawn sprinkler systems"
+  },
+  {
+    "misc_code": "43228",
+    "description": "Steam piping"
+  },
+  {
+    "misc_code": "43229",
+    "description": "Plumbing, heat and air-conditioning installation n.e.c."
+  },
+  {
+    "misc_code": "43291",
+    "description": "Installation of elevators, escalators in buildings or other construction projects"
+  },
+  {
+    "misc_code": "43292",
+    "description": "Installation of automated and revolving doors in buildings or other construction projects"
+  },
+  {
+    "misc_code": "43293",
+    "description": "Installation of lighting conductors in buildings or other construction projects"
+  },
+  {
+    "misc_code": "43294",
+    "description": "Installation vacuum cleaning systems in buildings or other construction projects"
+  },
+  {
+    "misc_code": "43295",
+    "description": "Installation thermal, sound or vibration insulation in buildings or other construction projects"
+  },
+  {
+    "misc_code": "43299",
+    "description": "Other construction installation n.e.c."
+  },
+  {
+    "misc_code": "43301",
+    "description": "Installation of doors, windows, door and window frames of wood or other materials, fitted kitchens, staircases, shop fittings and furniture"
+  },
+  {
+    "misc_code": "43302",
+    "description": "Laying, tiling, hanging or fitting in buildings or other construction projects of various types of materials"
+  },
+  {
+    "misc_code": "43303",
+    "description": "Interior and exterior painting of buildings"
+  },
+  {
+    "misc_code": "43304",
+    "description": "Painting of civil engineering structures"
+  },
+  {
+    "misc_code": "43305",
+    "description": "Installation of glass, mirrors"
+  },
+  {
+    "misc_code": "43306",
+    "description": "Interior completion"
+  },
+  {
+    "misc_code": "43307",
+    "description": "Cleaning of new buildings after construction"
+  },
+  {
+    "misc_code": "43309",
+    "description": "Other building completion and finishing work n.e.c."
+  },
+  {
+    "misc_code": "43901",
+    "description": "Construction of foundations, including pile driving"
+  },
+  {
+    "misc_code": "43902",
+    "description": "Erection of non-self-manufactured steel elements"
+  },
+  {
+    "misc_code": "43903",
+    "description": "Scaffolds and work platform erecting and dismantling"
+  },
+  {
+    "misc_code": "43904",
+    "description": "Bricklaying and stone setting"
+  },
+  {
+    "misc_code": "43905",
+    "description": "Construction of outdoor swimming pools"
+  },
+  {
+    "misc_code": "43906",
+    "description": "Steam cleaning, sand blasting and similar activities for building exteriors"
+  },
+  {
+    "misc_code": "43907",
+    "description": "Renting of construction machinery and equipment with operator (e.g. cranes)"
+  },
+  {
+    "misc_code": "43909",
+    "description": "Other specialized construction activities, n.e.c."
+  },
+  {
+    "misc_code": "45101",
+    "description": "Wholesale and retail of new motor vehicles"
+  },
+  {
+    "misc_code": "45102",
+    "description": "Wholesale and retail of used motor vehicles"
+  },
+  {
+    "misc_code": "45103",
+    "description": "Sale of industrial, commercial and agriculture vehicles – new"
+  },
+  {
+    "misc_code": "45104",
+    "description": "Sale of industrial, commercial and agriculture vehicles – used"
+  },
+  {
+    "misc_code": "45105",
+    "description": "Sale by commission agents"
+  },
+  {
+    "misc_code": "45106",
+    "description": "Car auctions"
+  },
+  {
+    "misc_code": "45109",
+    "description": "Sale of other motor vehicles n.e.c."
+  },
+  {
+    "misc_code": "45201",
+    "description": "Maintenance and repair of motor vehicles"
+  },
+  {
+    "misc_code": "45202",
+    "description": "Spraying and painting"
+  },
+  {
+    "misc_code": "45203",
+    "description": "Washing and polishing (car wash)"
+  },
+  {
+    "misc_code": "45204",
+    "description": "Repair of motor vehicle seats"
+  },
+  {
+    "misc_code": "45205",
+    "description": "Installation of parts and accessories not as part of the manufacturing process"
+  },
+  {
+    "misc_code": "45300",
+    "description": "Wholesale and retail sale of all kinds of parts, components, supplies, tools and accessories for motor vehicles"
+  },
+  {
+    "misc_code": "45401",
+    "description": "Wholesale and retail sale of motorcycles"
+  },
+  {
+    "misc_code": "45402",
+    "description": "Wholesale and retail sale of parts and accessories for motorcycles"
+  },
+  {
+    "misc_code": "45403",
+    "description": "Repair and maintenance of motorcycles"
+  },
+  {
+    "misc_code": "46100",
+    "description": "Wholesale on a fee or contract basis"
+  },
+  {
+    "misc_code": "46201",
+    "description": "Wholesale of rubber"
+  },
+  {
+    "misc_code": "46202",
+    "description": "Wholesale of palm oil"
+  },
+  {
+    "misc_code": "46203",
+    "description": "Wholesale of lumber and timber"
+  },
+  {
+    "misc_code": "46204",
+    "description": "Wholesale of flowers and plants"
+  },
+  {
+    "misc_code": "46205",
+    "description": "Wholesale of livestock"
+  },
+  {
+    "misc_code": "46209",
+    "description": "Wholesale of agricultural raw material and live animal n.e.c."
+  },
+  {
+    "misc_code": "46311",
+    "description": "Wholesale of meat, poultry and eggs"
+  },
+  {
+    "misc_code": "46312",
+    "description": "Wholesale of fish and other seafood"
+  },
+  {
+    "misc_code": "46313",
+    "description": "Wholesale of fruits"
+  },
+  {
+    "misc_code": "46314",
+    "description": "Wholesale of vegetables"
+  },
+  {
+    "misc_code": "46319",
+    "description": "Wholesale of meat, fish, fruits and vegetables n.e.c."
+  },
+  {
+    "misc_code": "46321",
+    "description": "Wholesale of rice, other grains, flour and sugars"
+  },
+  {
+    "misc_code": "46322",
+    "description": "Wholesale of dairy products"
+  },
+  {
+    "misc_code": "46323",
+    "description": "Wholesale of confectionary"
+  },
+  {
+    "misc_code": "46324",
+    "description": "Wholesale of  biscuits, cakes, breads and other bakery products"
+  },
+  {
+    "misc_code": "46325",
+    "description": "Wholesale of coffee, tea, cocoa and other beverages"
+  },
+  {
+    "misc_code": "46326",
+    "description": "Wholesale of beer, wine and spirits"
+  },
+  {
+    "misc_code": "46327",
+    "description": "Wholesale of tobacco, cigar, cigarettes"
+  },
+  {
+    "misc_code": "46329",
+    "description": "Wholesale of other foodstuffs"
+  },
+  {
+    "misc_code": "46411",
+    "description": "Wholesale of yarn and fabrics"
+  },
+  {
+    "misc_code": "46412",
+    "description": "Wholesale of household linen, towels, blankets"
+  },
+  {
+    "misc_code": "46413",
+    "description": "Wholesale of clothing"
+  },
+  {
+    "misc_code": "46414",
+    "description": "Wholesale of clothing accessories"
+  },
+  {
+    "misc_code": "46415",
+    "description": "Wholesale of fur articles"
+  },
+  {
+    "misc_code": "46416",
+    "description": "Wholesale of footwear"
+  },
+  {
+    "misc_code": "46417",
+    "description": "Wholesale of haberdashery"
+  },
+  {
+    "misc_code": "46419",
+    "description": "Wholesale of textiles, clothing n.e.c."
+  },
+  {
+    "misc_code": "46421",
+    "description": "Wholesale of pharmaceutical and medical goods"
+  },
+  {
+    "misc_code": "46422",
+    "description": "Wholesale of perfumeries, cosmetics, soap and toiletries"
+  },
+  {
+    "misc_code": "46431",
+    "description": "Wholesale of bicycles and their parts and accessories"
+  },
+  {
+    "misc_code": "46432",
+    "description": "Wholesale of photographic and optical goods"
+  },
+  {
+    "misc_code": "46433",
+    "description": "Wholesale of leather goods and travel accessories"
+  },
+  {
+    "misc_code": "46434",
+    "description": "Wholesale of musical instruments, games and toys, sports goods"
+  },
+  {
+    "misc_code": "46441",
+    "description": "Wholesale of handicrafts and artificial flowers"
+  },
+  {
+    "misc_code": "46442",
+    "description": "Wholesale of cut flowers and plants"
+  },
+  {
+    "misc_code": "46443",
+    "description": "Wholesale of watches and clocks"
+  },
+  {
+    "misc_code": "46444",
+    "description": "Wholesale of jewellery"
+  },
+  {
+    "misc_code": "46491",
+    "description": "Wholesale of household furniture"
+  },
+  {
+    "misc_code": "46492",
+    "description": "Wholesale of household appliances"
+  },
+  {
+    "misc_code": "46493",
+    "description": "Wholesale of lighting equipment"
+  },
+  {
+    "misc_code": "46494",
+    "description": "Wholesale of household utensils and cutlery, crockery, glassware, chinaware and pottery"
+  },
+  {
+    "misc_code": "46495",
+    "description": "Wholesale of woodenware, wickerwork and corkware"
+  },
+  {
+    "misc_code": "46496",
+    "description": "Wholesale of electrical and electronic goods"
+  },
+  {
+    "misc_code": "46497",
+    "description": "Wholesale of stationery, books, magazines and newspapers"
+  },
+  {
+    "misc_code": "46499",
+    "description": "Wholesale of other household goods n.e.c."
+  },
+  {
+    "misc_code": "46510",
+    "description": "Wholesale of computer hardware, software and peripherals"
+  },
+  {
+    "misc_code": "46521",
+    "description": "Wholesale of telephone and telecommunications equipment, cell phones, pagers"
+  },
+  {
+    "misc_code": "46522",
+    "description": "Wholesale of electronic components and wiring accessories"
+  },
+  {
+    "misc_code": "46531",
+    "description": "Wholesale of agricultural machinery, equipment and supplies"
+  },
+  {
+    "misc_code": "46532",
+    "description": "Wholesale of lawn mowers however operated"
+  },
+  {
+    "misc_code": "46591",
+    "description": "Wholesale of office machinery and business equipment, except computers and computer peripheral equipment"
+  },
+  {
+    "misc_code": "46592",
+    "description": "Wholesale of office furniture"
+  },
+  {
+    "misc_code": "46593",
+    "description": "Wholesale of computer-controlled machines tools"
+  },
+  {
+    "misc_code": "46594",
+    "description": "Wholesale of industrial machinery, equipment and supplies"
+  },
+  {
+    "misc_code": "46595",
+    "description": "Wholesale of construction and civil engineering machinery and equipment"
+  },
+  {
+    "misc_code": "46596",
+    "description": "Wholesale of lift escalators, air-conditioning, security and fire fighting equipment"
+  },
+  {
+    "misc_code": "46599",
+    "description": "Wholesale of other machinery for use in industry, trade and navigation and other services n.e.c."
+  },
+  {
+    "misc_code": "46611",
+    "description": "Wholesale of petrol, diesel, lubricants"
+  },
+  {
+    "misc_code": "46612",
+    "description": "Wholesale of liquefied petroleum gas"
+  },
+  {
+    "misc_code": "46619",
+    "description": "Wholesale of other solid, liquid and gaseous fuels and related products n.e.c."
+  },
+  {
+    "misc_code": "46621",
+    "description": "Wholesale of ferrous and non-ferrous metal ores and metals"
+  },
+  {
+    "misc_code": "46622",
+    "description": "Wholesale of ferrous and non-ferrous semi-finished metal ores and products n.e.c."
+  },
+  {
+    "misc_code": "46631",
+    "description": "Wholesale of logs, sawn timber, plywood, veneer and related products"
+  },
+  {
+    "misc_code": "46632",
+    "description": "Wholesale of paints and varnish"
+  },
+  {
+    "misc_code": "46633",
+    "description": "Wholesale of construction materials"
+  },
+  {
+    "misc_code": "46634",
+    "description": "Wholesale of fittings and fixtures"
+  },
+  {
+    "misc_code": "46635",
+    "description": "Wholesale of hot water heaters"
+  },
+  {
+    "misc_code": "46636",
+    "description": "Wholesale of sanitary installation and equipment"
+  },
+  {
+    "misc_code": "46637",
+    "description": "Wholesale of tools"
+  },
+  {
+    "misc_code": "46639",
+    "description": "Wholesale of other construction materials, hardware, plumbing and heating equipment and supplies n.e.c."
+  },
+  {
+    "misc_code": "46691",
+    "description": "Wholesale of industrial chemicals"
+  },
+  {
+    "misc_code": "46692",
+    "description": "Wholesale of fertilizers and agrochemical products"
+  },
+  {
+    "misc_code": "46693",
+    "description": "Wholesale of plastic materials in primary forms"
+  },
+  {
+    "misc_code": "46694",
+    "description": "Wholesale of rubber scrap"
+  },
+  {
+    "misc_code": "46695",
+    "description": "Wholesale of textile fibres"
+  },
+  {
+    "misc_code": "46696",
+    "description": "Wholesale of paper in bulk, packaging materials"
+  },
+  {
+    "misc_code": "46697",
+    "description": "Wholesale of precious stones"
+  },
+  {
+    "misc_code": "46698",
+    "description": "Wholesale of metal and non-metal waste and scrap and materials for recycling"
+  },
+  {
+    "misc_code": "46699",
+    "description": "Dismantling of automobiles, computer, televisions and other equipment to obtain and re-sell usable parts"
+  },
+  {
+    "misc_code": "46901",
+    "description": "Wholesale of aquarium fishes, pet birds and animals"
+  },
+  {
+    "misc_code": "46902",
+    "description": "Wholesale of animal/pet food"
+  },
+  {
+    "misc_code": "46909",
+    "description": "Wholesale of a variety of goods without any particular specialization n.e.c."
+  },
+  {
+    "misc_code": "47111",
+    "description": "Provision stores"
+  },
+  {
+    "misc_code": "47112",
+    "description": "Supermarket"
+  },
+  {
+    "misc_code": "47113",
+    "description": "Mini market"
+  },
+  {
+    "misc_code": "47114",
+    "description": "Convenience stores"
+  },
+  {
+    "misc_code": "47191",
+    "description": "Department stores"
+  },
+  {
+    "misc_code": "47192",
+    "description": "Department stores and supermarket"
+  },
+  {
+    "misc_code": "47193",
+    "description": "Hypermarket"
+  },
+  {
+    "misc_code": "47194",
+    "description": "News agent and miscellaneous goods store"
+  },
+  {
+    "misc_code": "47199",
+    "description": "Other retail sale in non-specialized stores n.e.c."
+  },
+  {
+    "misc_code": "47211",
+    "description": "Retail sale of rice, flour, other grains and sugars"
+  },
+  {
+    "misc_code": "47212",
+    "description": "Retail sale of fresh or preserved vegetables and fruits"
+  },
+  {
+    "misc_code": "47213",
+    "description": "Retail sale of dairy products and eggs"
+  },
+  {
+    "misc_code": "47214",
+    "description": "Retail sale of meat and meat products (including poultry)"
+  },
+  {
+    "misc_code": "47215",
+    "description": "Retail sale of fish, other seafood and products thereof"
+  },
+  {
+    "misc_code": "47216",
+    "description": "Retail sale of bakery products and sugar confectionery"
+  },
+  {
+    "misc_code": "47217",
+    "description": "Retail sale of mee, kuey teow, mee hoon, wantan skins and other food products made from flour or soya"
+  },
+  {
+    "misc_code": "47219",
+    "description": "Retail sale of other food products n.e.c."
+  },
+  {
+    "misc_code": "47221",
+    "description": "Retail sale of beer, wine and spirits"
+  },
+  {
+    "misc_code": "47222",
+    "description": "Retail sale of tea, coffee, soft drinks, mineral water and other beverages"
+  },
+  {
+    "misc_code": "47230",
+    "description": "Retail sale of tobacco products in specialized store"
+  },
+  {
+    "misc_code": "47300",
+    "description": "Retail sale of automotive fuel in specialized stores"
+  },
+  {
+    "misc_code": "47411",
+    "description": "Retail sale of computers, computer equipment and supplies"
+  },
+  {
+    "misc_code": "47412",
+    "description": "Retail sale of video game consoles and non-customized software"
+  },
+  {
+    "misc_code": "47413",
+    "description": "Retail sale of telecommunication equipment"
+  },
+  {
+    "misc_code": "47420",
+    "description": "Retail sale of audio and video equipment in specialized store"
+  },
+  {
+    "misc_code": "47510",
+    "description": "Retail sale of textiles in specialized stores"
+  },
+  {
+    "misc_code": "47520",
+    "description": "Retail sale of construction materials, hardware, paints and glass"
+  },
+  {
+    "misc_code": "47531",
+    "description": "Retail sale of carpets and rugs"
+  },
+  {
+    "misc_code": "47532",
+    "description": "Retail sale of curtains and net curtains"
+  },
+  {
+    "misc_code": "47533",
+    "description": "Retail sale of wallpaper and floor coverings"
+  },
+  {
+    "misc_code": "47591",
+    "description": "Retail sale of household furniture"
+  },
+  {
+    "misc_code": "47592",
+    "description": "Retail sale of articles for lighting"
+  },
+  {
+    "misc_code": "47593",
+    "description": "Retail sale of household utensils and cutlery, crockery, glassware, chinaware and pottery"
+  },
+  {
+    "misc_code": "47594",
+    "description": "Retail sale of wood, cork goods and wickerwork goods"
+  },
+  {
+    "misc_code": "47595",
+    "description": "Retail sale of household appliances"
+  },
+  {
+    "misc_code": "47596",
+    "description": "Retail sale of musical instruments and scores"
+  },
+  {
+    "misc_code": "47597",
+    "description": "Retail sale of security systems"
+  },
+  {
+    "misc_code": "47598",
+    "description": "Retail sale of household articles and equipment n.e.c."
+  },
+  {
+    "misc_code": "47611",
+    "description": "Retail sale of office supplies and equipment"
+  },
+  {
+    "misc_code": "47612",
+    "description": "Retail sale of books, newspapers and stationary"
+  },
+  {
+    "misc_code": "47620",
+    "description": "Retail sale of musical records, audio tapes, compact discs , cassettes, video tapes, VCDs and DVDs, blank tapes and discs"
+  },
+  {
+    "misc_code": "47631",
+    "description": "Retail sale of sports goods and equipments"
+  },
+  {
+    "misc_code": "47632",
+    "description": "Retail sale of fishing equipment"
+  },
+  {
+    "misc_code": "47633",
+    "description": "Retail sale of camping goods"
+  },
+  {
+    "misc_code": "47634",
+    "description": "Retail sale of boats and equipments"
+  },
+  {
+    "misc_code": "47635",
+    "description": "Retail sale of bicycles and related parts and accessories"
+  },
+  {
+    "misc_code": "47640",
+    "description": "Retail sale of games and toys, made of all materials"
+  },
+  {
+    "misc_code": "47711",
+    "description": "Retail sale of articles of clothing, articles of fur and clothing accessories"
+  },
+  {
+    "misc_code": "47712",
+    "description": "Retail sale of footwear"
+  },
+  {
+    "misc_code": "47713",
+    "description": "Retail sale of leather goods, accessories of leather and leather substitutes"
+  },
+  {
+    "misc_code": "47721",
+    "description": "Stores specialized in retail sale of pharmaceuticals, medical and orthopaedic goods"
+  },
+  {
+    "misc_code": "47722",
+    "description": "Stores specialized in retail sale of perfumery, cosmetic and toilet articles"
+  },
+  {
+    "misc_code": "47731",
+    "description": "Retail sale of photographic and precision equipment"
+  },
+  {
+    "misc_code": "47732",
+    "description": "Retail sale of watches and clocks"
+  },
+  {
+    "misc_code": "47733",
+    "description": "Retail sale of jewellery"
+  },
+  {
+    "misc_code": "47734",
+    "description": "Retail sale of flowers, plants, seeds, fertilizers"
+  },
+  {
+    "misc_code": "47735",
+    "description": "Retail sale of souvenirs, craftwork and religious articles"
+  },
+  {
+    "misc_code": "47736",
+    "description": "Retail sale of household fuel oil, cooking gas, coal and fuel wood"
+  },
+  {
+    "misc_code": "47737",
+    "description": "Retail sale of spectacles and other optical goods"
+  },
+  {
+    "misc_code": "47738",
+    "description": "Retail sale of aquarium fishes, pet animals and pet food"
+  },
+  {
+    "misc_code": "47739",
+    "description": "Other retail sale of new goods in specialized stores n.e.c."
+  },
+  {
+    "misc_code": "47741",
+    "description": "Retail sale of second-hand books"
+  },
+  {
+    "misc_code": "47742",
+    "description": "Retail sale of second-hand electrical and electronic goods"
+  },
+  {
+    "misc_code": "47743",
+    "description": "Retail sale of antiques"
+  },
+  {
+    "misc_code": "47744",
+    "description": "Activities of auctioning houses (retail)"
+  },
+  {
+    "misc_code": "47749",
+    "description": "Retail sale of second-hand goods n.e.c."
+  },
+  {
+    "misc_code": "47810",
+    "description": "Retail sale of food, beverages and tobacco products via stalls or markets"
+  },
+  {
+    "misc_code": "47820",
+    "description": "Retail sale of textiles, clothing and footwear via stalls or markets"
+  },
+  {
+    "misc_code": "47891",
+    "description": "Retail sale of carpets and rugs via stalls or markets"
+  },
+  {
+    "misc_code": "47892",
+    "description": "Retail sale of books via stalls or markets"
+  },
+  {
+    "misc_code": "47893",
+    "description": "Retail sale of games and toys via stalls or markets"
+  },
+  {
+    "misc_code": "47894",
+    "description": "Retail sale of household appliances and consumer electronics via stall or markets"
+  },
+  {
+    "misc_code": "47895",
+    "description": "Retail sale of music and video recordings via stall or markets"
+  },
+  {
+    "misc_code": "47911",
+    "description": "Retail sale of any kind of product by mail order"
+  },
+  {
+    "misc_code": "47912",
+    "description": "Retail sale of any kind of product over the Internet"
+  },
+  {
+    "misc_code": "47913",
+    "description": "Direct sale via television, radio and telephone"
+  },
+  {
+    "misc_code": "47914",
+    "description": "Internet retail auctions"
+  },
+  {
+    "misc_code": "47991",
+    "description": "Retail sale of any kind of product by direct sales or door-to-door sales persons"
+  },
+  {
+    "misc_code": "47992",
+    "description": "Retail sale of any kind of product through vending machines"
+  },
+  {
+    "misc_code": "47999",
+    "description": "Other retail sale not in stores, stalls or markets n.e.c."
+  },
+  {
+    "misc_code": "49110",
+    "description": "Passenger transport by inter-urban railways"
+  },
+  {
+    "misc_code": "49120",
+    "description": "Freight transport by inter-urban, suburban and urban railways"
+  },
+  {
+    "misc_code": "49211",
+    "description": "City bus services"
+  },
+  {
+    "misc_code": "49212",
+    "description": "Urban and suburban railway passenger transport service"
+  },
+  {
+    "misc_code": "49221",
+    "description": "Express bus services"
+  },
+  {
+    "misc_code": "49222",
+    "description": "Employees bus services"
+  },
+  {
+    "misc_code": "49223",
+    "description": "School bus services"
+  },
+  {
+    "misc_code": "49224",
+    "description": "Taxi operation and limousine services"
+  },
+  {
+    "misc_code": "49225",
+    "description": "Rental of cars with driver"
+  },
+  {
+    "misc_code": "49229",
+    "description": "Other passenger land transport n.e.c."
+  },
+  {
+    "misc_code": "49230",
+    "description": "Freight transport by road"
+  },
+  {
+    "misc_code": "49300",
+    "description": "Transport via pipeline"
+  },
+  {
+    "misc_code": "50111",
+    "description": "Operation of excursion, cruise or sightseeing boats"
+  },
+  {
+    "misc_code": "50112",
+    "description": "Operation of ferries, water taxis"
+  },
+  {
+    "misc_code": "50113",
+    "description": "Rental of pleasure boats with crew for sea and coastal water transport"
+  },
+  {
+    "misc_code": "50121",
+    "description": "Transport of freight overseas and coastal waters, whether scheduled or not"
+  },
+  {
+    "misc_code": "50122",
+    "description": "Transport by towing or pushing of barges, oil rigs"
+  },
+  {
+    "misc_code": "50211",
+    "description": "Transport of passenger via rivers, canals, lakes and other inland waterways"
+  },
+  {
+    "misc_code": "50212",
+    "description": "Rental of pleasure boats with crew for inland water transport"
+  },
+  {
+    "misc_code": "50220",
+    "description": "Transport of freight via rivers, canals, lakes and other inland waterways"
+  },
+  {
+    "misc_code": "51101",
+    "description": "Transport of passengers by air over regular routes and on regular schedules"
+  },
+  {
+    "misc_code": "51102",
+    "description": "Non-scheduled transport of passenger by air"
+  },
+  {
+    "misc_code": "51103",
+    "description": "Renting of air-transport equipment with operator for the purpose of passenger transportation"
+  },
+  {
+    "misc_code": "51201",
+    "description": "Transport freight by air over regular routes and on regular schedules"
+  },
+  {
+    "misc_code": "51202",
+    "description": "Non-scheduled transport of freight by air"
+  },
+  {
+    "misc_code": "51203",
+    "description": "Renting of air-transport equipment with operator for the purpose of freight transportation"
+  },
+  {
+    "misc_code": "52100",
+    "description": "Warehousing and storage services"
+  },
+  {
+    "misc_code": "52211",
+    "description": "Operation of terminal facilities"
+  },
+  {
+    "misc_code": "52212",
+    "description": "Towing and road side assistance"
+  },
+  {
+    "misc_code": "52213",
+    "description": "Operation of parking facilities for motor vehicles (parking lots)"
+  },
+  {
+    "misc_code": "52214",
+    "description": "Highway, bridge and tunnel operation services"
+  },
+  {
+    "misc_code": "52219",
+    "description": "Other service activities incidental to land transportation n.e.c."
+  },
+  {
+    "misc_code": "52221",
+    "description": "Port, harbours and piers operation services"
+  },
+  {
+    "misc_code": "52222",
+    "description": "Vessel salvage and refloating services"
+  },
+  {
+    "misc_code": "52229",
+    "description": "Other service activities incidental to water transportation n.e.c."
+  },
+  {
+    "misc_code": "52231",
+    "description": "Operation of terminal facilities"
+  },
+  {
+    "misc_code": "52232",
+    "description": "Airport and air-traffic-control activities"
+  },
+  {
+    "misc_code": "52233",
+    "description": "Ground service activities on airfields"
+  },
+  {
+    "misc_code": "52234",
+    "description": "Fire fighting and fire-prevention services at airports"
+  },
+  {
+    "misc_code": "52239",
+    "description": "Other service activities incidental to air transportation n.e.c."
+  },
+  {
+    "misc_code": "52241",
+    "description": "Stevedoring services"
+  },
+  {
+    "misc_code": "52249",
+    "description": "Other cargo handling activities n.e.c."
+  },
+  {
+    "misc_code": "52291",
+    "description": "Forwarding of freight"
+  },
+  {
+    "misc_code": "52292",
+    "description": "Brokerage for ship and aircraft space"
+  },
+  {
+    "misc_code": "52299",
+    "description": "Other transportation support activities n.e.c."
+  },
+  {
+    "misc_code": "53100",
+    "description": "National postal services"
+  },
+  {
+    "misc_code": "53200",
+    "description": "Courier activities other than national post activities"
+  },
+  {
+    "misc_code": "55101",
+    "description": "Hotels and resort hotels"
+  },
+  {
+    "misc_code": "55102",
+    "description": "Motels"
+  },
+  {
+    "misc_code": "55103",
+    "description": "Apartment hotels"
+  },
+  {
+    "misc_code": "55104",
+    "description": "Chalets"
+  },
+  {
+    "misc_code": "55105",
+    "description": "Rest house/guest house"
+  },
+  {
+    "misc_code": "55106",
+    "description": "Bed and breakfast units"
+  },
+  {
+    "misc_code": "55107",
+    "description": "Hostels"
+  },
+  {
+    "misc_code": "55108",
+    "description": "Home stay"
+  },
+  {
+    "misc_code": "55109",
+    "description": "Other short term accommodation activities n.e.c."
+  },
+  {
+    "misc_code": "55200",
+    "description": "Camping grounds, recreational vehicle parks and trailer parks"
+  },
+  {
+    "misc_code": "55900",
+    "description": "Other accommodation"
+  },
+  {
+    "misc_code": "56101",
+    "description": "Restaurants and restaurant cum night clubs"
+  },
+  {
+    "misc_code": "56102",
+    "description": "Cafeterias/canteens"
+  },
+  {
+    "misc_code": "56103",
+    "description": "Fast-food restaurants"
+  },
+  {
+    "misc_code": "56104",
+    "description": "Ice cream truck vendors and parlours"
+  },
+  {
+    "misc_code": "56105",
+    "description": "Mobile food carts"
+  },
+  {
+    "misc_code": "56106",
+    "description": "Food stalls/hawkers"
+  },
+  {
+    "misc_code": "56107",
+    "description": "Food or beverage, food and beverage preparation in market stalls/hawkers"
+  },
+  {
+    "misc_code": "56210",
+    "description": "Event/food caterers"
+  },
+  {
+    "misc_code": "56290",
+    "description": "Other food service activities"
+  },
+  {
+    "misc_code": "56301",
+    "description": "Pubs, bars, discotheques, coffee houses, cocktail lounges and karaoke"
+  },
+  {
+    "misc_code": "56302",
+    "description": "Coffee shops"
+  },
+  {
+    "misc_code": "56303",
+    "description": "Drink stalls/hawkers"
+  },
+  {
+    "misc_code": "56304",
+    "description": "Mobile beverage"
+  },
+  {
+    "misc_code": "56309",
+    "description": "Others drinking places n.e.c."
+  },
+  {
+    "misc_code": "58110",
+    "description": "Publishing of books, brochures and other publications"
+  },
+  {
+    "misc_code": "58120",
+    "description": "Publishing of mailing lists, telephone book, other directories"
+  },
+  {
+    "misc_code": "58130",
+    "description": "Publishing of newspapers, journals, magazines and periodicals in print or electronic form"
+  },
+  {
+    "misc_code": "58190",
+    "description": "Publishing of catalogues, photos, engraving and postcards, greeting cards, forms, posters, reproduction of works of art, advertising material and other printed matter n.e.c."
+  },
+  {
+    "misc_code": "58201",
+    "description": "Business and other applications"
+  },
+  {
+    "misc_code": "58202",
+    "description": "Computer games for all platforms"
+  },
+  {
+    "misc_code": "58203",
+    "description": "Operating systems"
+  },
+  {
+    "misc_code": "59110",
+    "description": "Motion picture, video and television programme production activities"
+  },
+  {
+    "misc_code": "59120",
+    "description": "Motion picture, video and television programme post-production activities"
+  },
+  {
+    "misc_code": "59130",
+    "description": "Motion picture, video and television programme distribution activities"
+  },
+  {
+    "misc_code": "59140",
+    "description": "Motion picture projection activities"
+  },
+  {
+    "misc_code": "59200",
+    "description": "Sound recording and music publishing activities"
+  },
+  {
+    "misc_code": "60100",
+    "description": "Radio broadcasting"
+  },
+  {
+    "misc_code": "60200",
+    "description": "Television programming and broadcasting activities"
+  },
+  {
+    "misc_code": "61101",
+    "description": "Wired telecommunications services"
+  },
+  {
+    "misc_code": "61102",
+    "description": "Internet access providers by the operator of the wired infrastructure"
+  },
+  {
+    "misc_code": "61201",
+    "description": "Wireless telecommunications services"
+  },
+  {
+    "misc_code": "61202",
+    "description": "Internet access providers by the operator of the wireless infrastructure"
+  },
+  {
+    "misc_code": "61300",
+    "description": "Satellite telecommunications services"
+  },
+  {
+    "misc_code": "61901",
+    "description": "Provision of Internet access over networks between the client and the ISP not owned or controlled by the ISP"
+  },
+  {
+    "misc_code": "61902",
+    "description": "Provision of telecommunications services over existing telecom connection"
+  },
+  {
+    "misc_code": "61903",
+    "description": "Telecommunications resellers"
+  },
+  {
+    "misc_code": "61904",
+    "description": "Provision of telecommunications services over existing telecom connections VOIP (Voice Over Internet Protocol) provision"
+  },
+  {
+    "misc_code": "61905",
+    "description": "Provision of specialized telecommunications applications"
+  },
+  {
+    "misc_code": "61909",
+    "description": "Other telecommunications activities n.e.c."
+  },
+  {
+    "misc_code": "62010",
+    "description": "Computer programming activities"
+  },
+  {
+    "misc_code": "62021",
+    "description": "Computer consultancy"
+  },
+  {
+    "misc_code": "62022",
+    "description": "Computer facilities management activities"
+  },
+  {
+    "misc_code": "62091",
+    "description": "Information Communication Technology (ICT) system security"
+  },
+  {
+    "misc_code": "62099",
+    "description": "Other information technology service activities n.e.c."
+  },
+  {
+    "misc_code": "63111",
+    "description": "Activities of providing infrastructure for hosting, data processing services and related activities"
+  },
+  {
+    "misc_code": "63112",
+    "description": "Data processing activities"
+  },
+  {
+    "misc_code": "63120",
+    "description": "Web portals"
+  },
+  {
+    "misc_code": "63910",
+    "description": "News syndicate and news agency activities"
+  },
+  {
+    "misc_code": "63990",
+    "description": "Other information service activities n.e.c."
+  },
+  {
+    "misc_code": "64110",
+    "description": "Central banking"
+  },
+  {
+    "misc_code": "64191",
+    "description": "Commercial Banks"
+  },
+  {
+    "misc_code": "64192",
+    "description": "Islamic Banks"
+  },
+  {
+    "misc_code": "64193",
+    "description": "Offshore Banks"
+  },
+  {
+    "misc_code": "64194",
+    "description": "Investment Banks"
+  },
+  {
+    "misc_code": "64195",
+    "description": "Development financial institutions (with deposit taking functions)"
+  },
+  {
+    "misc_code": "64199",
+    "description": "Other monetary intermediation (with deposit taking functions) n.e.c."
+  },
+  {
+    "misc_code": "64200",
+    "description": "Activities of holding companies"
+  },
+  {
+    "misc_code": "64301",
+    "description": "Venture capital companies"
+  },
+  {
+    "misc_code": "64302",
+    "description": "Unit trust fund excludes REITs"
+  },
+  {
+    "misc_code": "64303",
+    "description": "Property unit trust (REITs)"
+  },
+  {
+    "misc_code": "64304",
+    "description": "Other administration of trusts accounts"
+  },
+  {
+    "misc_code": "64309",
+    "description": "Trusts, funds and similar financial entities n.e.c."
+  },
+  {
+    "misc_code": "64910",
+    "description": "Financial leasing activities"
+  },
+  {
+    "misc_code": "64921",
+    "description": "Development financial institutions (without deposit taking functions)"
+  },
+  {
+    "misc_code": "64922",
+    "description": "Credit card services"
+  },
+  {
+    "misc_code": "64923",
+    "description": "Licensed money lending activities"
+  },
+  {
+    "misc_code": "64924",
+    "description": "Pawnshops and pawnbrokers includes Ar-Rahnu"
+  },
+  {
+    "misc_code": "64925",
+    "description": "Co-operative with credits functions"
+  },
+  {
+    "misc_code": "64929",
+    "description": "Other credit granting n.e.c."
+  },
+  {
+    "misc_code": "64991",
+    "description": "Factoring companies"
+  },
+  {
+    "misc_code": "64992",
+    "description": "Representative office of foreign banks"
+  },
+  {
+    "misc_code": "64993",
+    "description": "Nominee companies"
+  },
+  {
+    "misc_code": "64999",
+    "description": "Other financial service activities, except insurance/takaful and pension funding n.e.c."
+  },
+  {
+    "misc_code": "65111",
+    "description": "Life insurance"
+  },
+  {
+    "misc_code": "65112",
+    "description": "Family takaful"
+  },
+  {
+    "misc_code": "65121",
+    "description": "General insurance"
+  },
+  {
+    "misc_code": "65122",
+    "description": "General takaful"
+  },
+  {
+    "misc_code": "65123",
+    "description": "Composite insurance"
+  },
+  {
+    "misc_code": "65124",
+    "description": "Offshore insurance"
+  },
+  {
+    "misc_code": "65125",
+    "description": "Offshore takaful"
+  },
+  {
+    "misc_code": "65201",
+    "description": "Life reinsurance"
+  },
+  {
+    "misc_code": "65202",
+    "description": "Family retakaful"
+  },
+  {
+    "misc_code": "65203",
+    "description": "General reinsurance"
+  },
+  {
+    "misc_code": "65204",
+    "description": "General retakaful"
+  },
+  {
+    "misc_code": "65205",
+    "description": "Composite retakaful"
+  },
+  {
+    "misc_code": "65206",
+    "description": "Offshore reinsurance"
+  },
+  {
+    "misc_code": "65207",
+    "description": "Offshore retakaful"
+  },
+  {
+    "misc_code": "65301",
+    "description": "Pension funding"
+  },
+  {
+    "misc_code": "65302",
+    "description": "Provident funding"
+  },
+  {
+    "misc_code": "66111",
+    "description": "Stock exchanges"
+  },
+  {
+    "misc_code": "66112",
+    "description": "Exchanges for commodity contracts"
+  },
+  {
+    "misc_code": "66113",
+    "description": "Securities exchange"
+  },
+  {
+    "misc_code": "66114",
+    "description": "Exchanges for commodity futures contracts"
+  },
+  {
+    "misc_code": "66119",
+    "description": "Administration of financial markets n.e.c."
+  },
+  {
+    "misc_code": "66121",
+    "description": "Stock, share and bond brokers"
+  },
+  {
+    "misc_code": "66122",
+    "description": "Commodity brokers and dealers"
+  },
+  {
+    "misc_code": "66123",
+    "description": "Gold bullion dealers"
+  },
+  {
+    "misc_code": "66124",
+    "description": "Foreign exchange broker and dealers (Bureaux de change)"
+  },
+  {
+    "misc_code": "66125",
+    "description": "Money-changing services"
+  },
+  {
+    "misc_code": "66129",
+    "description": "Other financial and commodity futures brokers and dealers"
+  },
+  {
+    "misc_code": "66191",
+    "description": "Investment advisory services"
+  },
+  {
+    "misc_code": "66192",
+    "description": "Financial consultancy services"
+  },
+  {
+    "misc_code": "66199",
+    "description": "Activities auxiliary to finance n.e.c."
+  },
+  {
+    "misc_code": "66211",
+    "description": "Insurance adjusting service"
+  },
+  {
+    "misc_code": "66212",
+    "description": "Takaful adjusting service"
+  },
+  {
+    "misc_code": "66221",
+    "description": "Insurance agents"
+  },
+  {
+    "misc_code": "66222",
+    "description": "Takaful agents"
+  },
+  {
+    "misc_code": "66223",
+    "description": "Insurance brokers"
+  },
+  {
+    "misc_code": "66224",
+    "description": "Takaful brokers"
+  },
+  {
+    "misc_code": "66290",
+    "description": "Other activities auxiliary to insurance, takaful and pension funding"
+  },
+  {
+    "misc_code": "66301",
+    "description": "Management of pension funds"
+  },
+  {
+    "misc_code": "66302",
+    "description": "Assets/portfolio management"
+  },
+  {
+    "misc_code": "66303",
+    "description": "Unit trust management companies"
+  },
+  {
+    "misc_code": "68101",
+    "description": "Buying, selling, renting and operating of self-owned or leased real estate – residential buildings"
+  },
+  {
+    "misc_code": "68102",
+    "description": "Buying, selling, renting and operating of self-owned or leased real estate – non-residential buildings"
+  },
+  {
+    "misc_code": "68103",
+    "description": "Buying, selling, renting and operating of self-owned or leased real estate – land"
+  },
+  {
+    "misc_code": "68104",
+    "description": "Development of building projects for own operation, i.e. for renting of space in these buildings"
+  },
+  {
+    "misc_code": "68109",
+    "description": "Real estate activities with own or leased property n.e.c."
+  },
+  {
+    "misc_code": "68201",
+    "description": "Activities of real estate agents and brokers for buying, selling and renting of real estate"
+  },
+  {
+    "misc_code": "68202",
+    "description": "Management of real estate on a fee or contract basis"
+  },
+  {
+    "misc_code": "68203",
+    "description": "Appraisal services for real estate"
+  },
+  {
+    "misc_code": "68209",
+    "description": "Real estate activities on a fee or contract basis n.e.c."
+  },
+  {
+    "misc_code": "69100",
+    "description": "Legal activities"
+  },
+  {
+    "misc_code": "69200",
+    "description": "Accounting, bookkeeping and auditing activities; tax consultancy"
+  },
+  {
+    "misc_code": "70100",
+    "description": "Activities of head offices"
+  },
+  {
+    "misc_code": "70201",
+    "description": "Business management consultancy services"
+  },
+  {
+    "misc_code": "70202",
+    "description": "Human resource consultancy services"
+  },
+  {
+    "misc_code": "70203",
+    "description": "Consultancy services in public relation and communications"
+  },
+  {
+    "misc_code": "70209",
+    "description": "Other management consultancy activities n.e.c"
+  },
+  {
+    "misc_code": "71101",
+    "description": "Architectural services"
+  },
+  {
+    "misc_code": "71102",
+    "description": "Engineering services"
+  },
+  {
+    "misc_code": "71103",
+    "description": "Land surveying services"
+  },
+  {
+    "misc_code": "71109",
+    "description": "Other architectural and engineering activities and related technical consultancy n.e.c."
+  },
+  {
+    "misc_code": "71200",
+    "description": "Technical testing and analysis"
+  },
+  {
+    "misc_code": "72101",
+    "description": "Research and development on natural sciences"
+  },
+  {
+    "misc_code": "72102",
+    "description": "Research and development on engineering and technology"
+  },
+  {
+    "misc_code": "72103",
+    "description": "Research and development on medical sciences"
+  },
+  {
+    "misc_code": "72104",
+    "description": "Research and development on biotechnology"
+  },
+  {
+    "misc_code": "72105",
+    "description": "Research and development on agricultural sciences"
+  },
+  {
+    "misc_code": "72106",
+    "description": "Research and development on Information Communication Technology (ICT)"
+  },
+  {
+    "misc_code": "72109",
+    "description": "Research and development on other natural science and engineering n.e.c."
+  },
+  {
+    "misc_code": "72201",
+    "description": "Research and development on social sciences"
+  },
+  {
+    "misc_code": "72202",
+    "description": "Research and development on humanities"
+  },
+  {
+    "misc_code": "72209",
+    "description": "Research and development of other social sciences and humanities n.e.c."
+  },
+  {
+    "misc_code": "73100",
+    "description": "Advertising"
+  },
+  {
+    "misc_code": "73200",
+    "description": "Market research and public opinion polling"
+  },
+  {
+    "misc_code": "74101",
+    "description": "Activities of interior decorators"
+  },
+  {
+    "misc_code": "74102",
+    "description": "Services of graphic designers"
+  },
+  {
+    "misc_code": "74103",
+    "description": "Fashion design services"
+  },
+  {
+    "misc_code": "74109",
+    "description": "Specialized design activities n.e.c."
+  },
+  {
+    "misc_code": "74200",
+    "description": "Photographic activities"
+  },
+  {
+    "misc_code": "74901",
+    "description": "Translation and interpretation activities"
+  },
+  {
+    "misc_code": "74902",
+    "description": "Business brokerage activities"
+  },
+  {
+    "misc_code": "74903",
+    "description": "Security consulting"
+  },
+  {
+    "misc_code": "74904",
+    "description": "Activities of quantity surveyors"
+  },
+  {
+    "misc_code": "74905",
+    "description": "Activities of consultants other than architecture, engineering and management consultants"
+  },
+  {
+    "misc_code": "74909",
+    "description": "Any other professional, scientific and technical activities n.e.c."
+  },
+  {
+    "misc_code": "75000",
+    "description": "VETERINARY ACTIVITIES"
+  },
+  {
+    "misc_code": "77101",
+    "description": "Renting and operational leasing of passenger cars (without driver)"
+  },
+  {
+    "misc_code": "77102",
+    "description": "Renting and operational leasing of trucks, utility trailers and recreational vehicles"
+  },
+  {
+    "misc_code": "77211",
+    "description": "Renting and leasing of pleasure boats, canoes, sailboats"
+  },
+  {
+    "misc_code": "77212",
+    "description": "Renting and leasing of bicycles"
+  },
+  {
+    "misc_code": "77213",
+    "description": "Renting and leasing of beach chairs and umbrellas"
+  },
+  {
+    "misc_code": "77219",
+    "description": "Renting and leasing of other sports equipment n.e.c."
+  },
+  {
+    "misc_code": "77220",
+    "description": "Renting of video tapes, records, CDs, DVDs"
+  },
+  {
+    "misc_code": "77291",
+    "description": "Renting and leasing of textiles, wearing apparel and footwear"
+  },
+  {
+    "misc_code": "77292",
+    "description": "Renting and leasing of furniture, pottery and glass, kitchen and tableware, electrical appliances"
+  },
+  {
+    "misc_code": "77293",
+    "description": "Renting and leasing of jewellery, musical instruments, scenery and costumes"
+  },
+  {
+    "misc_code": "77294",
+    "description": "Renting and leasing of books, journals and magazines"
+  },
+  {
+    "misc_code": "77295",
+    "description": "Renting and leasing of machinery and equipment used by amateurs or as a hobby"
+  },
+  {
+    "misc_code": "77296",
+    "description": "Renting of flowers and plants"
+  },
+  {
+    "misc_code": "77297",
+    "description": "Renting and leasing of electronic equipment for household use"
+  },
+  {
+    "misc_code": "77299",
+    "description": "Renting and leasing of other personal and household goods n.e.c."
+  },
+  {
+    "misc_code": "77301",
+    "description": "Renting and operational leasing, without operator, of other machinery and equipment that are generally used as capital goods by industries"
+  },
+  {
+    "misc_code": "77302",
+    "description": "Renting and operational leasing of land-transport equipment (other than motor vehicles) without drivers"
+  },
+  {
+    "misc_code": "77303",
+    "description": "Renting and operational leasing of water-transport equipment without operator"
+  },
+  {
+    "misc_code": "77304",
+    "description": "Renting and operational leasing of air transport equipment without operator"
+  },
+  {
+    "misc_code": "77305",
+    "description": "Renting and operational leasing of agricultural and forestry machinery and equipment without operator"
+  },
+  {
+    "misc_code": "77306",
+    "description": "Renting and operational leasing of construction and civil-engineering machinery and equipment without operator"
+  },
+  {
+    "misc_code": "77307",
+    "description": "Rental and operational leasing of office machinery and equipment without operator"
+  },
+  {
+    "misc_code": "77309",
+    "description": "Renting and leasing of other machinery, equipment and tangible goods n.e.c."
+  },
+  {
+    "misc_code": "77400",
+    "description": "Leasing of intellectual property and similar products, except copyrighted works"
+  },
+  {
+    "misc_code": "78100",
+    "description": "Activities of employment placement agencies"
+  },
+  {
+    "misc_code": "78200",
+    "description": "Temporary employment agency activities"
+  },
+  {
+    "misc_code": "78300",
+    "description": "Provision of human resources for client businesses"
+  },
+  {
+    "misc_code": "79110",
+    "description": "Travel agency activities"
+  },
+  {
+    "misc_code": "79120",
+    "description": "Tour operator activities"
+  },
+  {
+    "misc_code": "79900",
+    "description": "Other reservation service and related activities"
+  },
+  {
+    "misc_code": "80100",
+    "description": "Private security activities"
+  },
+  {
+    "misc_code": "80200",
+    "description": "Security systems service activities"
+  },
+  {
+    "misc_code": "80300",
+    "description": "Investigation and detective activities"
+  },
+  {
+    "misc_code": "81100",
+    "description": "Combined facilities support activities"
+  },
+  {
+    "misc_code": "81210",
+    "description": "General cleaning of buildings"
+  },
+  {
+    "misc_code": "81291",
+    "description": "Cleaning of buildings of all types"
+  },
+  {
+    "misc_code": "81292",
+    "description": "Swimming pool cleaning and maintenance services"
+  },
+  {
+    "misc_code": "81293",
+    "description": "Cleaning of industrial machinery"
+  },
+  {
+    "misc_code": "81294",
+    "description": "Cleaning of trains, buses, planes"
+  },
+  {
+    "misc_code": "81295",
+    "description": "Cleaning of pest control services not in connection with agriculture"
+  },
+  {
+    "misc_code": "81296",
+    "description": "Disinfecting and exterminating activities"
+  },
+  {
+    "misc_code": "81297",
+    "description": "Cleaning of sea tankers"
+  },
+  {
+    "misc_code": "81299",
+    "description": "Other building and industrial cleaning activities, n.e.c."
+  },
+  {
+    "misc_code": "81300",
+    "description": "Landscape care and maintenance service activities"
+  },
+  {
+    "misc_code": "82110",
+    "description": "Combined office administrative service activities"
+  },
+  {
+    "misc_code": "82191",
+    "description": "Document preparation, editing and/or proofreading"
+  },
+  {
+    "misc_code": "82192",
+    "description": "Typing, word processing or desktop publishing"
+  },
+  {
+    "misc_code": "82193",
+    "description": "Secretarial support services"
+  },
+  {
+    "misc_code": "82194",
+    "description": "Transcription of documents and other secretarial services"
+  },
+  {
+    "misc_code": "82195",
+    "description": "Provision of mailbox rental and other postal and mailing services"
+  },
+  {
+    "misc_code": "82196",
+    "description": "Photocopying, duplicating, blueprinting"
+  },
+  {
+    "misc_code": "82199",
+    "description": "Photocopying, document preparation and other specialized office support activities n.e.c."
+  },
+  {
+    "misc_code": "82200",
+    "description": "Activities of call centres"
+  },
+  {
+    "misc_code": "82301",
+    "description": "Organization, promotions and/or management of event"
+  },
+  {
+    "misc_code": "82302",
+    "description": "Meeting, incentive, convention, exhibition (MICE)"
+  },
+  {
+    "misc_code": "82910",
+    "description": "Activities of collection agencies and credit bureaus"
+  },
+  {
+    "misc_code": "82920",
+    "description": "Packaging activities on a fee or contract basis, whether or not these involve an automated process"
+  },
+  {
+    "misc_code": "82990",
+    "description": "Other business support service activities n.e.c."
+  },
+  {
+    "misc_code": "84111",
+    "description": "General (overall) public administration activities"
+  },
+  {
+    "misc_code": "84112",
+    "description": "Ancillary service activities for the government as a whole"
+  },
+  {
+    "misc_code": "84121",
+    "description": "Administrative educational services"
+  },
+  {
+    "misc_code": "84122",
+    "description": "Administrative health care services"
+  },
+  {
+    "misc_code": "84123",
+    "description": "Administrative housing and local government services"
+  },
+  {
+    "misc_code": "84124",
+    "description": "Administrative recreational, cultural, arts and sports services"
+  },
+  {
+    "misc_code": "84125",
+    "description": "Administrative religious affairs services"
+  },
+  {
+    "misc_code": "84126",
+    "description": "Administrative welfare services"
+  },
+  {
+    "misc_code": "84129",
+    "description": "Other community and social affairs services"
+  },
+  {
+    "misc_code": "84131",
+    "description": "Domestic and international trade affairs"
+  },
+  {
+    "misc_code": "84132",
+    "description": "Agriculture and rural development affairs"
+  },
+  {
+    "misc_code": "84133",
+    "description": "Primary industries affairs"
+  },
+  {
+    "misc_code": "84134",
+    "description": "Public works affairs"
+  },
+  {
+    "misc_code": "84135",
+    "description": "Transport affairs"
+  },
+  {
+    "misc_code": "84136",
+    "description": "Energy, telecommunication and postal affairs"
+  },
+  {
+    "misc_code": "84137",
+    "description": "Tourism affairs"
+  },
+  {
+    "misc_code": "84138",
+    "description": "Human resource affairs"
+  },
+  {
+    "misc_code": "84139",
+    "description": "Other regulation of and contribution to more efficient operation of businesses n.e.c."
+  },
+  {
+    "misc_code": "84210",
+    "description": "Foreign affairs"
+  },
+  {
+    "misc_code": "84220",
+    "description": "Military and civil defence services"
+  },
+  {
+    "misc_code": "84231",
+    "description": "Police service"
+  },
+  {
+    "misc_code": "84232",
+    "description": "Prison service"
+  },
+  {
+    "misc_code": "84233",
+    "description": "Immigration service"
+  },
+  {
+    "misc_code": "84234",
+    "description": "National registration service"
+  },
+  {
+    "misc_code": "84235",
+    "description": "Judiciary and legal service"
+  },
+  {
+    "misc_code": "84236",
+    "description": "Firefighting and fire prevention"
+  },
+  {
+    "misc_code": "84239",
+    "description": "Other public order and safety affairs related services"
+  },
+  {
+    "misc_code": "84300",
+    "description": "Compulsory social security activities e.g. SOCSO"
+  },
+  {
+    "misc_code": "85101",
+    "description": "Pre-primary education (Public)"
+  },
+  {
+    "misc_code": "85102",
+    "description": "Pre-primary education (Private)"
+  },
+  {
+    "misc_code": "85103",
+    "description": "Primary education (Public)"
+  },
+  {
+    "misc_code": "85104",
+    "description": "Primary education (Private)"
+  },
+  {
+    "misc_code": "85211",
+    "description": "General school secondary education (Public)"
+  },
+  {
+    "misc_code": "85212",
+    "description": "General school secondary education (Private)"
+  },
+  {
+    "misc_code": "85221",
+    "description": "Technical and vocational education below the level of higher education (Public)"
+  },
+  {
+    "misc_code": "85222",
+    "description": "Technical and vocational education below the level of higher education (Private)"
+  },
+  {
+    "misc_code": "85301",
+    "description": "College and university education (Public)"
+  },
+  {
+    "misc_code": "85302",
+    "description": "College and university education (Private)"
+  },
+  {
+    "misc_code": "85411",
+    "description": "Sports instruction"
+  },
+  {
+    "misc_code": "85412",
+    "description": "Martial arts instruction"
+  },
+  {
+    "misc_code": "85419",
+    "description": "Any other sports and recreation education n.e.c"
+  },
+  {
+    "misc_code": "85421",
+    "description": "Music and dancing school"
+  },
+  {
+    "misc_code": "85429",
+    "description": "Any other cultural education n.e.c."
+  },
+  {
+    "misc_code": "85491",
+    "description": "Tuition centre"
+  },
+  {
+    "misc_code": "85492",
+    "description": "Driving school"
+  },
+  {
+    "misc_code": "85493",
+    "description": "Religious instruction"
+  },
+  {
+    "misc_code": "85494",
+    "description": "Computer training"
+  },
+  {
+    "misc_code": "85499",
+    "description": "Others education n.e.c"
+  },
+  {
+    "misc_code": "85500",
+    "description": "Educational support services for provision of non-instructional services"
+  },
+  {
+    "misc_code": "86101",
+    "description": "Hospital activities"
+  },
+  {
+    "misc_code": "86102",
+    "description": "Maternity home services (outside hospital)"
+  },
+  {
+    "misc_code": "86201",
+    "description": "General medical services"
+  },
+  {
+    "misc_code": "86202",
+    "description": "Specialized medical services"
+  },
+  {
+    "misc_code": "86203",
+    "description": "Dental services"
+  },
+  {
+    "misc_code": "86901",
+    "description": "Dialysis Centres"
+  },
+  {
+    "misc_code": "86902",
+    "description": "Medical laboratories"
+  },
+  {
+    "misc_code": "86903",
+    "description": "Physiotherapy and occupational therapy service"
+  },
+  {
+    "misc_code": "86904",
+    "description": "Acupuncture services"
+  },
+  {
+    "misc_code": "86905",
+    "description": "Herbalist and homeopathy services"
+  },
+  {
+    "misc_code": "86906",
+    "description": "Ambulance services"
+  },
+  {
+    "misc_code": "86909",
+    "description": "Other human health services n.e.c."
+  },
+  {
+    "misc_code": "87101",
+    "description": "Homes for the elderly with nursing care"
+  },
+  {
+    "misc_code": "87102",
+    "description": "Nursing homes"
+  },
+  {
+    "misc_code": "87103",
+    "description": "Palliative or hospices"
+  },
+  {
+    "misc_code": "87201",
+    "description": "Drug rehabilitation centres"
+  },
+  {
+    "misc_code": "87209",
+    "description": "Other residential care activities for mental retardation n.e.c."
+  },
+  {
+    "misc_code": "87300",
+    "description": "Residential care activities for the elderly and disabled"
+  },
+  {
+    "misc_code": "87901",
+    "description": "Orphanages"
+  },
+  {
+    "misc_code": "87902",
+    "description": "Welfare homes services"
+  },
+  {
+    "misc_code": "87909",
+    "description": "Other residential care activities n.e.c."
+  },
+  {
+    "misc_code": "88101",
+    "description": "Day-care activities for the elderly or for handicapped adults"
+  },
+  {
+    "misc_code": "88109",
+    "description": "Others social work activities without accommodation for the elderly and disabled"
+  },
+  {
+    "misc_code": "88901",
+    "description": "Counselling service"
+  },
+  {
+    "misc_code": "88902",
+    "description": "Child day-care activities"
+  },
+  {
+    "misc_code": "88909",
+    "description": "Other social work activities without accommodation n.e.c."
+  },
+  {
+    "misc_code": "90001",
+    "description": "Theatrical producer, singer group band and orchestra entertainment services"
+  },
+  {
+    "misc_code": "90002",
+    "description": "Operation of concert and theatre halls and other arts facilities"
+  },
+  {
+    "misc_code": "90003",
+    "description": "Activities of sculptors, painters, cartoonists, engravers, etchers"
+  },
+  {
+    "misc_code": "90004",
+    "description": "Activities of individual writers, for all subjects"
+  },
+  {
+    "misc_code": "90005",
+    "description": "Activities of independent journalists"
+  },
+  {
+    "misc_code": "90006",
+    "description": "Restoring of works of art such as painting"
+  },
+  {
+    "misc_code": "90007",
+    "description": "Activities of producers or entrepreneurs of arts live events, with or without facilities"
+  },
+  {
+    "misc_code": "90009",
+    "description": "Creative, arts and entertainment activities n.e.c."
+  },
+  {
+    "misc_code": "91011",
+    "description": "Documentation and information activities of libraries of all kinds"
+  },
+  {
+    "misc_code": "91012",
+    "description": "Stock photo libraries and services"
+  },
+  {
+    "misc_code": "91021",
+    "description": "Operation of museums of all kinds"
+  },
+  {
+    "misc_code": "91022",
+    "description": "Operation of historical sites and buildings"
+  },
+  {
+    "misc_code": "91031",
+    "description": "Operation of botanical and zoological gardens"
+  },
+  {
+    "misc_code": "91032",
+    "description": "Operation of nature reserves, including wildlife preservation"
+  },
+  {
+    "misc_code": "92000",
+    "description": "GAMBLING AND BETTING ACTIVITIES"
+  },
+  {
+    "misc_code": "93111",
+    "description": "Football, hockey, cricket, baseball, badminton, futsal, paintball"
+  },
+  {
+    "misc_code": "93112",
+    "description": "Racetracks for auto"
+  },
+  {
+    "misc_code": "93113",
+    "description": "Equestrian clubs"
+  },
+  {
+    "misc_code": "93114",
+    "description": "Swimming pools and stadiums, ice-skating arenas"
+  },
+  {
+    "misc_code": "93115",
+    "description": "Track and field stadium"
+  },
+  {
+    "misc_code": "93116",
+    "description": "Golf courses"
+  },
+  {
+    "misc_code": "93117",
+    "description": "Bowling centre"
+  },
+  {
+    "misc_code": "93118",
+    "description": "Fitness centres"
+  },
+  {
+    "misc_code": "93119",
+    "description": "Organization and operation of outdoor or indoor sports events for professionals or amateurs by organizations with own facilities"
+  },
+  {
+    "misc_code": "93120",
+    "description": "The operation of sports clubs such as football club, bowling club, swimming club"
+  },
+  {
+    "misc_code": "93191",
+    "description": "Activities of producers or promoters of sports events, with or without facilities"
+  },
+  {
+    "misc_code": "93192",
+    "description": "Activities of sports leagues and regulating bodies"
+  },
+  {
+    "misc_code": "93193",
+    "description": "Activities of related to promotion of sporting events"
+  },
+  {
+    "misc_code": "93199",
+    "description": "Other sports activities n.e.c."
+  },
+  {
+    "misc_code": "93210",
+    "description": "Activities of amusement parks and theme parks"
+  },
+  {
+    "misc_code": "93291",
+    "description": "Activities of recreation parks and beaches"
+  },
+  {
+    "misc_code": "93292",
+    "description": "Operation of recreational transport facilities"
+  },
+  {
+    "misc_code": "93293",
+    "description": "Renting of leisure and pleasure equipment as an integral part of recreational facilities"
+  },
+  {
+    "misc_code": "93294",
+    "description": "Operation of fairs and shows of a recreational nature"
+  },
+  {
+    "misc_code": "93295",
+    "description": "Operation of discotheques and dance floors"
+  },
+  {
+    "misc_code": "93296",
+    "description": "Activities of producers or entrepreneurs of live events other than arts or sports events, with or without facilities"
+  },
+  {
+    "misc_code": "93297",
+    "description": "Cyber Café/Internet Centre"
+  },
+  {
+    "misc_code": "93299",
+    "description": "Any other amusement and recreation activities n.e.c."
+  },
+  {
+    "misc_code": "94110",
+    "description": "Activities of business and employers membership organizations"
+  },
+  {
+    "misc_code": "94120",
+    "description": "Activities of professional membership organizations"
+  },
+  {
+    "misc_code": "94200",
+    "description": "Activities of trade unions"
+  },
+  {
+    "misc_code": "94910",
+    "description": "Activities of religious organizations"
+  },
+  {
+    "misc_code": "94920",
+    "description": "Activities of political organizations"
+  },
+  {
+    "misc_code": "94990",
+    "description": "Activities of other membership organizations n.e.c."
+  },
+  {
+    "misc_code": "95111",
+    "description": "Repair of electronic equipment"
+  },
+  {
+    "misc_code": "95112",
+    "description": "Repair and maintenance of computer terminals"
+  },
+  {
+    "misc_code": "95113",
+    "description": "Repair and maintenance of hand-held computers (PDA's)"
+  },
+  {
+    "misc_code": "95121",
+    "description": "Repair and maintenance of cordless telephones"
+  },
+  {
+    "misc_code": "95122",
+    "description": "Repair and maintenance of cellular phones"
+  },
+  {
+    "misc_code": "95123",
+    "description": "Repair and maintenance of carrier equipment modems"
+  },
+  {
+    "misc_code": "95124",
+    "description": "Repair and maintenance of fax machines"
+  },
+  {
+    "misc_code": "95125",
+    "description": "Repair and maintenance of communications transmission equipment"
+  },
+  {
+    "misc_code": "95126",
+    "description": "Repair and maintenance of two-way radios"
+  },
+  {
+    "misc_code": "95127",
+    "description": "Repair and maintenance of commercial TV and video cameras"
+  },
+  {
+    "misc_code": "95211",
+    "description": "Repair and maintenance of television, radio receivers"
+  },
+  {
+    "misc_code": "95212",
+    "description": "Repair and maintenance of VCR/DVD/VCD"
+  },
+  {
+    "misc_code": "95213",
+    "description": "Repair and maintenance of CD players"
+  },
+  {
+    "misc_code": "95214",
+    "description": "Repair and maintenance of household-type video cameras"
+  },
+  {
+    "misc_code": "95221",
+    "description": "Repair and servicing of household appliances"
+  },
+  {
+    "misc_code": "95222",
+    "description": "Repair and servicing of home and garden equipment"
+  },
+  {
+    "misc_code": "95230",
+    "description": "Repair of footwear and leather goods"
+  },
+  {
+    "misc_code": "95240",
+    "description": "Repair of furniture and home furnishings"
+  },
+  {
+    "misc_code": "95291",
+    "description": "Repair of bicycles"
+  },
+  {
+    "misc_code": "95292",
+    "description": "Repair and alteration of clothing"
+  },
+  {
+    "misc_code": "95293",
+    "description": "Repair and alteration of jewellery"
+  },
+  {
+    "misc_code": "95294",
+    "description": "Repair of watches, clocks and their parts"
+  },
+  {
+    "misc_code": "95295",
+    "description": "Repair of sporting goods"
+  },
+  {
+    "misc_code": "95296",
+    "description": "Repair of musical instruments"
+  },
+  {
+    "misc_code": "95299",
+    "description": "Repair of other personal and household goods n.e.c."
+  },
+  {
+    "misc_code": "96011",
+    "description": "Laundering and dry-cleaning, pressing"
+  },
+  {
+    "misc_code": "96012",
+    "description": "Carpet and rug shampooing, and drapery and curtain cleaning, whether on clients' premises or not"
+  },
+  {
+    "misc_code": "96013",
+    "description": "Provision of linens, work uniforms and related items by laundries"
+  },
+  {
+    "misc_code": "96014",
+    "description": "Diaper supply services"
+  },
+  {
+    "misc_code": "96020",
+    "description": "Hairdressing and other beauty treatment"
+  },
+  {
+    "misc_code": "96031",
+    "description": "Preparing the dead for burial or cremation and embalming and morticians' services"
+  },
+  {
+    "misc_code": "96032",
+    "description": "Providing burial or cremation services"
+  },
+  {
+    "misc_code": "96033",
+    "description": "Rental of equipped space in funeral parlours"
+  },
+  {
+    "misc_code": "96034",
+    "description": "Rental or sale of graves"
+  },
+  {
+    "misc_code": "96035",
+    "description": "Maintenance of graves and mausoleums"
+  },
+  {
+    "misc_code": "96091",
+    "description": "Activities of sauna, steam baths, massage salons"
+  },
+  {
+    "misc_code": "96092",
+    "description": "Astrological and spiritualists' activities"
+  },
+  {
+    "misc_code": "96093",
+    "description": "Social activities such as escort services, dating services, services of marriage bureaux"
+  },
+  {
+    "misc_code": "96094",
+    "description": "Pet care services"
+  },
+  {
+    "misc_code": "96095",
+    "description": "Genealogical organizations"
+  },
+  {
+    "misc_code": "96096",
+    "description": "Shoe shiners, porters, valet car parkers"
+  },
+  {
+    "misc_code": "96097",
+    "description": "Concession operation of coin-operated personal service machines"
+  },
+  {
+    "misc_code": "96099",
+    "description": "Other service activities n.e.c."
+  },
+  {
+    "misc_code": "97000",
+    "description": "Activities of households as employers of domestic personnel"
+  },
+  {
+    "misc_code": "98100",
+    "description": "Undifferentiated goods-producing activities of private households for own use"
+  },
+  {
+    "misc_code": "98200",
+    "description": "Undifferentiated service-producing activities of private households for own use"
+  },
+  {
+    "misc_code": "99000",
+    "description": "Activities of extraterritorial organization and bodies"
+  },
+  {
+    "misc_code": "OTHER",
+    "description": "Other"
+  }
+]

@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include erpx_my_gst *.css
+recursive-include erpx_my_gst *.csv
+recursive-include erpx_my_gst *.html
+recursive-include erpx_my_gst *.ico
+recursive-include erpx_my_gst *.js
+recursive-include erpx_my_gst *.json
+recursive-include erpx_my_gst *.md
+recursive-include erpx_my_gst *.png
+recursive-include erpx_my_gst *.py
+recursive-include erpx_my_gst *.svg
+recursive-include erpx_my_gst *.txt
+recursive-exclude erpx_my_gst *.pyc
