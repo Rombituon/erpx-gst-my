@@ -1,0 +1,6 @@
+current
+license
+install
+contents
+assets
+user
