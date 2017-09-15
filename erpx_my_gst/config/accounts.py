@@ -12,6 +12,11 @@ def get_data():
 					"description": _("MSIC Code")
 				},
 				{
+					"type": "doctype",
+					"name": "GST Tax Code",
+					"description": _("GST Tax Code")
+				},
+				{
 					"type": "report",
 					"name": "Malaysia GST03",
 					"is_query_report": True

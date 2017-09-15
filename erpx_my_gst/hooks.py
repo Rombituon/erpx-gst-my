@@ -32,8 +32,7 @@ app_include_js = "/assets/erpx_my_gst/js/erpx_my_gst.min.js"
 # doctype_calendar_js = {"doctype" : "public/js/doctype_calendar.js"}
 doctype_js = {
     "Company": ["public/js/company.js"],
-    "Sales Taxes and Charges Template": ["public/js/alltaxesandchargestemplate.js"],
-    "Purchase Taxes and Charges Template": ["public/js/alltaxesandchargestemplate.js"],
+    "Item": ["public/js/item.js"],
     "Sales Order": ["public/js/msiccodehandler.js"],
     "Delivery Note" : ["public/js/msiccodehandler.js"],
     "Sales Invoice" : ["public/js/msiccodehandler.js"],

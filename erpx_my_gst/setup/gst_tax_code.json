@@ -1,0 +1,107 @@
+[
+  {
+    "tax_code": "SR",
+    "rate": "6",
+    "description": "Standard-rated supplies with GST charged"
+  },{
+    "tax_code": "ZRL",
+    "rate": "0",
+    "description": "Local supply of goods or services which are subject to zero rated supplies."
+  },{
+    "tax_code": "ZDA",
+    "rate": "0",
+    "description": "Supply of goods from Malaysia to Designated Area (Pulau Langkawi, Labuan, & Pulau Tioman) which are subject to zero rated supplies. (By referring Customs Form No. 2 (K2), and/or other reference documents)"
+  },{
+    "tax_code": "ZRE",
+    "rate": "0",
+    "description": "Exportation of goods or services. (By referring Customs Form No. 2 (K2),and/or other reference documents)"
+  },{
+    "tax_code": "DS",
+    "rate": "6",
+    "description": "Deemed supplies under GST legislations."
+  },{
+    "tax_code": "OS",
+    "rate": "0",
+    "description": "Out-of-scope supplies under GST legislations."
+  },{
+    "tax_code": "ES",
+    "rate": "0",
+    "description": "Exempt supplies under GST legislations."
+  },{
+    "tax_code": "IES",
+    "rate": "0",
+    "description": "Incidental exempt supplies under GST legislations. "
+  },{
+    "tax_code": "RS",
+    "rate": "0",
+    "description": "Relief supplies under GST legislations."
+  },{
+    "tax_code": "GS",
+    "rate": "0",
+    "description": "Disregarded supplies under GST legislations."
+  },{
+    "tax_code": "AJS",
+    "rate": "6",
+    "description": "Any adjustment made to Output Tax (e.g., Bad Debt Recovered, & other output tax adjustments)"
+  },{
+    "tax_code": "TX",
+    "rate": "6",
+    "description": "Purchases with GST incurred at 6% and directly attributable to taxable supplies."
+  },{
+    "tax_code": "TX-CG",
+    "rate": "6",
+    "description": "Purchase with GST incurred for capital goods acquisition."
+  },{
+    "tax_code": "TX-IES",
+    "rate": "6",
+    "description": "Purchase with GST incurred directly attributable to incidental exempt supplies. "
+  },{
+    "tax_code": "TX-ES",
+    "rate": "6",
+    "description": "Purchase with GST incurred directly attributable to exempt supplies, and only applicable for partially exempt trader/mixed supplier."
+  },{
+    "tax_code": "TX-RE",
+    "rate": "6",
+    "description": "Purchase with GST incurred that is not directly attributable to taxable or exempt supplies, and only applicable for partially exempt trader/mixed supplier."
+  },{
+    "tax_code": "IM",
+    "rate": "6",
+    "description": "Import of goods with GST incurred. (By referring Customs Form No. 1 (K1),and/or other reference documents)"
+  },{
+    "tax_code": "IS",
+    "rate": "0",
+    "description": "Imports of goods under Approved Trader Scheme (ATS) whereas the payment of GST chargeable is suspended on the goods imported."
+  },{
+    "tax_code": "BL",
+    "rate": "6",
+    "description": "Purchases with GST incurred but not claimable or known as Disallowance of Input Tax."
+  },{
+    "tax_code": "NR",
+    "rate": "0",
+    "description": "Purchase from non GST-registered supplier with no GST incurred."
+  },{
+    "tax_code": "ZP",
+    "rate": "0",
+    "description": "Purchase from GST-registered supplier with zero-rated GST incurred."
+  },{
+    "tax_code": "EP",
+    "rate": "0",
+    "description": "Purchase in relation to exempt supply under GST legislations."
+  },{
+    "tax_code": "OP",
+    "rate": "0",
+    "description": "Purchase transactions which is out of the scope of GST legislation."
+  },{
+    "tax_code": "RP",
+    "rate": "0",
+    "description": "Relief Purchase under GST legislations."
+  },{
+    "tax_code": "GP",
+    "rate": "0",
+    "description": "Purchase transactions which disregarded under GST legislation"
+  },{
+    "tax_code": "AJP",
+    "rate": "6",
+    "description": "Any adjustment made to Input Tax (e.g., Bad Debt Relief & other input tax adjustments)"
+  }
+]

@@ -5,6 +5,7 @@ import frappe, os, json
 def initial_setup():
 	update_address_template()
 	add_msic_codes()
+	add_gst_tax_codes()
 
 def update_address_template():
 	with open(os.path.join(os.path.dirname(__file__), "address_template.html")) as f:
@@ -36,5 +37,23 @@ def add_msic_codes():
 		msic_code.update(d)
 		msic_code.name = msic_code.misc_code
 		msic_code.db_insert()
+
+	frappe.db.commit()
+
+def add_gst_tax_codes():
+	if frappe.db.count('GST Tax Code') > 100:
+		return
+	print "Updating GST Tax Code"
+	with open(os.path.join(os.path.dirname(__file__), 'gst_tax_code.json'), 'r') as f:
+		gst_tax_codes = json.loads(f.read())
+
+	frappe.db.commit()
+	frappe.db.sql('truncate `tabGST Tax Code`')
+
+	for d in gst_tax_codes:
+		gst_tax_code = frappe.new_doc('GST Tax Code')
+		gst_tax_code.update(d)
+		gst_tax_code.name = gst_tax_code.tax_code
+		gst_tax_code.db_insert()
 
 	frappe.db.commit()
