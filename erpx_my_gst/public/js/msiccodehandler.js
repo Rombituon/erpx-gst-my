@@ -44,5 +44,5 @@ frappe.ui.form.on('Purchase Invoice',{
 
 var fill_in_msic_code = function(frm){
 	debugger;
-    frm.add_fetch('item_code','my_gst_msic_code','my_gst_msic_code');          	
+    frm.add_fetch('item_code','mygst_msic_code','mygst_msic_code');          	
 }
