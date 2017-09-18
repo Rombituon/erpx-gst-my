@@ -381,29 +381,6 @@
    "property": "reqd", 
    "property_type": "Check", 
    "value": "0"
-  }, 
-  {
-   "_assign": null, 
-   "_comments": null, 
-   "_liked_by": null, 
-   "_user_tags": null, 
-   "creation": "2017-09-15 17:56:03.298269", 
-   "default_value": null, 
-   "doc_type": "Item Tax", 
-   "docstatus": 0, 
-   "doctype_or_field": "DocType", 
-   "field_name": null, 
-   "idx": 0, 
-   "modified": "2017-09-15 17:56:03.298269", 
-   "modified_by": "Administrator", 
-   "name": "Item Tax-read_only_onload", 
-   "owner": "Administrator", 
-   "parent": null, 
-   "parentfield": null, 
-   "parenttype": null, 
-   "property": "read_only_onload", 
-   "property_type": "Check", 
-   "value": null
   }
  ], 
  "sync_on_migrate": 1
