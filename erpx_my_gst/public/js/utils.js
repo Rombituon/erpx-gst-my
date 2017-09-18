@@ -35,3 +35,15 @@ erpx_malaysia_gst.utils.to_csv = function (data) {
 	});
 	return res.join("\n");
 };
+
+erpx_malaysia_gst.utils.fill_in_msic_code = function(frm){
+    frm.add_fetch('item_code','mygst_msic_code','mygst_msic_code');          	
+}
+
+erpx_malaysia_gst.utils.fill_in_purchase_gst_code = function(frm){
+    frm.add_fetch('item_code','mygst_item_purchase_tax_code','mygst_purchase_tax_code');          	
+}
+
+erpx_malaysia_gst.utils.fill_in_sales_gst_code = function(frm){
+    frm.add_fetch('item_code','mygst_item_sales_tax_code','mygst_sales_tax_code');          	
+}

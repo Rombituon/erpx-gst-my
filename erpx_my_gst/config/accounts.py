@@ -13,8 +13,13 @@ def get_data():
 				},
 				{
 					"type": "doctype",
-					"name": "GST Tax Code",
-					"description": _("GST Tax Code")
+					"name": "Sales GST Tax Code",
+					"description": _("Sales GST Tax Code")
+				},
+				{
+					"type": "doctype",
+					"name": "Purchase GST Tax Code",
+					"description": _("Purchase GST Tax Code")
 				},
 				{
 					"type": "report",

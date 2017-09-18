@@ -1,0 +1,90 @@
+[
+	{
+		"parent": "TX",
+		"gst03_field": "6a - Total Input Value"
+	},{
+		"parent": "TX",
+		"gst03_field": "6b - Total Input Tax"
+	},{
+		"parent": "TX-CG",
+		"gst03_field": "6a - Total Input Value"
+	},{
+		"parent": "TX-CG",
+		"gst03_field": "6b - Total Input Tax"
+	},{
+		"parent": "TX-CG",
+		"gst03_field": "16 - Total Value of Capital Goods Acquired"
+	},{
+		"parent": "TX-ES",
+		"gst03_field": "6a - Total Input Value"
+	},{
+		"parent": "TX-ES",
+		"gst03_field": "6b - Total Input Tax"
+	},{
+		"parent": "TX-IES",
+		"gst03_field": "6a - Total Input Value"
+	},{
+		"parent": "TX-IES",
+		"gst03_field": "6b - Total Input Tax"
+	},{
+		"parent": "TX-RE",
+		"gst03_field": "6a - Total Input Value"
+	},{
+		"parent": "TX-RE",
+		"gst03_field": "6b - Total Input Tax"
+	},{
+		"parent": "IM",
+		"gst03_field": "6a - Total Input Value"
+	},{
+		"parent": "IM",
+		"gst03_field": "6b - Total Input Tax"
+	},{
+		"parent": "IS",
+		"gst03_field": "14 - Total Value of Goods Imported Under Approved Trader Scheme"
+	},{
+		"parent": "IS",
+		"gst03_field": "15 - Total Value of GST Suspended under Item 14"
+	},{
+		"parent": "AJP",
+		"gst03_field": "6b - Total Input Tax"
+	},{
+		"parent": "AJP",
+		"gst03_field": "17 - Total Value of Bad Debt Relief Inclusive Tax"
+	},{
+		"parent": "SR",
+		"gst03_field": "5a - Total Output Value"
+	},{
+		"parent": "SR",
+		"gst03_field": "5b - Total Output Tax"
+	},{
+		"parent": "ZRL",
+		"gst03_field": "10 - Total Value of Local Zero-Rated Supplies"
+	},{
+		"parent": "ZDA",
+		"gst03_field": "11 - Total Value of Export Supplies"
+	},{
+		"parent": "ZRE",
+		"gst03_field": "11 - Total Value of Export Supplies"
+	},{
+		"parent": "DS",
+		"gst03_field": "5a - Total Output Value"
+	},{
+		"parent": "DS",
+		"gst03_field": "5b - Total Output Tax"
+	},{
+		"parent": "ES",
+		"gst03_field": "12 - Total Value of Exempt Supplies"
+	},{
+		"parent": "IES",
+		"gst03_field": "12 - Total Value of Exempt Supplies"
+	},{
+		"parent": "RS",
+		"gst03_field": "13 - Total Value of Supplies Granted GST Relief"
+	},{
+		"parent": "AJS",
+		"gst03_field": "5b - Total Output Tax"
+	},{
+		"parent": "AJS",
+		"gst03_field": "18 - Total Value of Bad Debt Recovered Inclusive Tax"
+	}
+]

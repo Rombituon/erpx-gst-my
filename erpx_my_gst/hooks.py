@@ -16,7 +16,7 @@ app_license = "UNLICENSED"
 
 # include js, css files in header of desk.html
 # app_include_css = "/assets/erpx_my_gst/css/erpx_my_gst.css"
-app_include_js = "/assets/erpx_my_gst/js/erpx_my_gst.min.js"
+app_include_js = "/assets/js/erpx_my_gst.min.js"
 
 # include js, css files in header of web template
 # web_include_css = "/assets/erpx_my_gst/css/erpx_my_gst.css"
@@ -33,6 +33,7 @@ app_include_js = "/assets/erpx_my_gst/js/erpx_my_gst.min.js"
 doctype_js = {
     "Company": ["public/js/company.js"],
     "Item": ["public/js/item.js"],
+    "Quotation": ["public/js/msiccodehandler.js"],
     "Sales Order": ["public/js/msiccodehandler.js"],
     "Delivery Note" : ["public/js/msiccodehandler.js"],
     "Sales Invoice" : ["public/js/msiccodehandler.js"],

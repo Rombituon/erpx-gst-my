@@ -5,7 +5,8 @@ import frappe, os, json
 def initial_setup():
 	update_address_template()
 	add_msic_codes()
-	add_gst_tax_codes()
+	add_purchase_gst_tax_codes()
+	add_sales_gst_tax_codes()
 
 def update_address_template():
 	with open(os.path.join(os.path.dirname(__file__), "address_template.html")) as f:
@@ -40,18 +41,36 @@ def add_msic_codes():
 
 	frappe.db.commit()
 
-def add_gst_tax_codes():
-	if frappe.db.count('GST Tax Code') > 100:
+def add_purchase_gst_tax_codes():
+	if frappe.db.count('Purchase GST Tax Code') > 100:
 		return
-	print "Updating GST Tax Code"
-	with open(os.path.join(os.path.dirname(__file__), 'gst_tax_code.json'), 'r') as f:
+	print "Updating Purchase GST Tax Code"
+	with open(os.path.join(os.path.dirname(__file__), 'purchase_gst_tax_code.json'), 'r') as f:
 		gst_tax_codes = json.loads(f.read())
 
 	frappe.db.commit()
-	frappe.db.sql('truncate `tabGST Tax Code`')
+	frappe.db.sql('truncate `tabPurchase GST Tax Code`')
 
 	for d in gst_tax_codes:
-		gst_tax_code = frappe.new_doc('GST Tax Code')
+		gst_tax_code = frappe.new_doc('Purchase GST Tax Code')
+		gst_tax_code.update(d)
+		gst_tax_code.name = gst_tax_code.tax_code
+		gst_tax_code.db_insert()
+
+	frappe.db.commit()
+
+def add_sales_gst_tax_codes():
+	if frappe.db.count('Sales GST Tax Code') > 100:
+		return
+	print "Updating Sales GST Tax Code"
+	with open(os.path.join(os.path.dirname(__file__), 'sales_gst_tax_code.json'), 'r') as f:
+		gst_tax_codes = json.loads(f.read())
+
+	frappe.db.commit()
+	frappe.db.sql('truncate `tabSales GST Tax Code`')
+
+	for d in gst_tax_codes:
+		gst_tax_code = frappe.new_doc('Sales GST Tax Code')
 		gst_tax_code.update(d)
 		gst_tax_code.name = gst_tax_code.tax_code
 		gst_tax_code.db_insert()

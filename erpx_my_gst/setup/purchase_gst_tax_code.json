@@ -1,49 +1,5 @@
 [
   {
-    "tax_code": "SR",
-    "rate": "6",
-    "description": "Standard-rated supplies with GST charged"
-  },{
-    "tax_code": "ZRL",
-    "rate": "0",
-    "description": "Local supply of goods or services which are subject to zero rated supplies."
-  },{
-    "tax_code": "ZDA",
-    "rate": "0",
-    "description": "Supply of goods from Malaysia to Designated Area (Pulau Langkawi, Labuan, & Pulau Tioman) which are subject to zero rated supplies. (By referring Customs Form No. 2 (K2), and/or other reference documents)"
-  },{
-    "tax_code": "ZRE",
-    "rate": "0",
-    "description": "Exportation of goods or services. (By referring Customs Form No. 2 (K2),and/or other reference documents)"
-  },{
-    "tax_code": "DS",
-    "rate": "6",
-    "description": "Deemed supplies under GST legislations."
-  },{
-    "tax_code": "OS",
-    "rate": "0",
-    "description": "Out-of-scope supplies under GST legislations."
-  },{
-    "tax_code": "ES",
-    "rate": "0",
-    "description": "Exempt supplies under GST legislations."
-  },{
-    "tax_code": "IES",
-    "rate": "0",
-    "description": "Incidental exempt supplies under GST legislations. "
-  },{
-    "tax_code": "RS",
-    "rate": "0",
-    "description": "Relief supplies under GST legislations."
-  },{
-    "tax_code": "GS",
-    "rate": "0",
-    "description": "Disregarded supplies under GST legislations."
-  },{
-    "tax_code": "AJS",
-    "rate": "6",
-    "description": "Any adjustment made to Output Tax (e.g., Bad Debt Recovered, & other output tax adjustments)"
-  },{
     "tax_code": "TX",
     "rate": "6",
     "description": "Purchases with GST incurred at 6% and directly attributable to taxable supplies."
